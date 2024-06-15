@@ -1,0 +1,3293 @@
+# Translation of Plugins - Blocksy Companion - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - Blocksy Companion - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-05-27 04:15:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Blocksy Companion - Stable (latest release)\n"
+
+#: static/js/editor/blocks/post-template/block.json
+msgctxt "block description"
+msgid "Contains the block elements used to render a post, like the title, date, featured image, content or excerpt, and more."
+msgstr "Chứa các phần tử khối được sử dụng để hiển thị một bài viết, như tựa đề, ngày tháng, hình ảnh nổi bật, nội dung hoặc tóm lược, v.v."
+
+#: static/js/editor/blocks/post-template/block.json
+msgctxt "block title"
+msgid "Post Template"
+msgstr "Mẫu bài viết"
+
+#: framework/features/blocks/share-box/options.php:113
+#: framework/features/blocks/socials/options.php:84
+msgid "Icons Spacing"
+msgstr "Khoảng cách biểu tượng"
+
+#: framework/features/blocks/share-box/options.php:85
+msgid "Flipboard"
+msgstr "Bảng lật"
+
+#: framework/features/blocks/share-box/options.php:79
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: framework/features/blocks/share-box/options.php:73
+msgid "Viber"
+msgstr "Viber"
+
+#: framework/features/blocks/share-box/options.php:67
+msgid "Telegram"
+msgstr "Telegram"
+
+#: framework/features/blocks/share-box/options.php:49
+msgid "Hacker News"
+msgstr "Hacker News"
+
+#: framework/features/blocks/share-box/options.php:43
+msgid "Reddit"
+msgstr "Reddit"
+
+#: framework/features/blocks/share-box/options.php:15
+msgid "Share Icons"
+msgstr "Biểu tượng chia sẻ"
+
+#: framework/features/blocks/search/options.php:209
+msgid "Search through taxonomies from selected custom post types."
+msgstr "Tìm kiếm thông qua các phân loại từ các loại bài đăng tùy chỉnh đã chọn."
+
+#: framework/features/blocks/search/options.php:205
+msgid "Search Through Taxonomies"
+msgstr "Tìm kiếm qua các phân loại"
+
+#: framework/features/blocks/search/options.php:187
+msgid "Chose in which post types do you want to perform searches."
+msgstr "Chọn loại bài viết mà bạn muốn thực hiện tìm kiếm."
+
+#: framework/features/blocks/search/options.php:185
+msgid "Search Through Criteria"
+msgstr "Tìm kiếm qua nguyên tắc"
+
+#: framework/features/blocks/search/options.php:175
+msgid "Taxonomy Children"
+msgstr "Phân loại con"
+
+#: framework/features/blocks/search/options.php:156
+msgid "Filter Visibility"
+msgstr "Hiển thị Bộ lọc"
+
+#: framework/features/blocks/search/options.php:147
+#: framework/features/blocks/search/view.php:265
+msgid "Select Category"
+msgstr "Chọn danh mục"
+
+#: framework/features/blocks/search/options.php:138
+msgid "Taxonomy Filter"
+msgstr "Bộ lọc phân loại"
+
+#: framework/features/blocks/search/options.php:126
+msgid "Live Results Product Status"
+msgstr "Trạng thái Kết quả Trực tiếp Sản phẩm"
+
+#: framework/features/blocks/search/options.php:119
+msgid "Live Results Product Price"
+msgstr "Kết quả trực tiếp Giá sản phẩm"
+
+#: framework/features/blocks/search/options.php:109
+msgid "Live Results Images"
+msgstr "Hình ảnh kết quả trực tiếp"
+
+#: framework/features/blocks/search/options.php:97
+msgid "Live Results"
+msgstr "Kết quả trực tiếp"
+
+#: framework/features/blocks/search/options.php:46
+#: framework/features/blocks/search/options.php:52
+#: framework/features/blocks/search/options.php:64
+#: framework/features/blocks/search/options.php:145
+msgid "Placeholder Text"
+msgstr "Văn bản giữ chỗ"
+
+#: framework/features/blocks/query/block-patterns/posts-layout-4.php:4
+msgid "Posts - Layout 4"
+msgstr "Bài viết - Bố cục 4"
+
+#: framework/features/blocks/query/block-patterns/posts-layout-3.php:4
+msgid "Posts - Layout 3"
+msgstr "Bài viết - Bố cục 3"
+
+#: framework/features/blocks/query/block-patterns/posts-layout-2.php:4
+msgid "Posts - Layout 2"
+msgstr "Bài viết - Bố cục 2"
+
+#: framework/features/blocks/query/block-patterns/posts-layout-1.php:4
+msgid "Posts - Layout 1"
+msgstr "Bài viết - Bố cục 1"
+
+#: framework/features/blocks/dynamic-data/views/woo-field.php:26
+#: static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/dynamic-data/preview-parts/woo/StockPreview.js:7
+msgid "Out of Stock"
+msgstr "Hết hàng"
+
+#: framework/features/blocks/dynamic-data/views/woo-field.php:25
+#: static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/dynamic-data/preview-parts/woo/StockPreview.js:6
+msgid "In Stock"
+msgstr "Còn hàng"
+
+#: framework/features/blocks/dynamic-data/views/avatar-field.php:30
+msgid "%s Avatar"
+msgstr "%s Ảnh đại diện"
+
+#: framework/features/blocks/dynamic-data/options.php:220
+msgid "Terms accent color"
+msgstr "Màu phụ của các điều kiện"
+
+#: framework/features/blocks/dynamic-data/options.php:203
+msgid "Link Rel"
+msgstr "Liên kết Rel"
+
+#: framework/features/blocks/dynamic-data/options.php:197
+msgid "Open in new tab"
+msgstr "Mở trong tab mới"
+
+#: framework/features/blocks/dynamic-data/options.php:180
+msgid "Link to term page"
+msgstr "Liên kết đến trang điều kiện"
+
+#: framework/features/blocks/dynamic-data/options.php:176
+msgid "Link to author page"
+msgstr "Liên kết đến trang tác giả"
+
+#: framework/features/blocks/dynamic-data/options.php:172
+msgid "Link to post"
+msgstr "Liên kết đến bài viết"
+
+#: framework/features/blocks/dynamic-data/options.php:142
+msgid "Last Name"
+msgstr "Họ"
+
+#: framework/features/blocks/dynamic-data/options.php:141
+msgid "First Name"
+msgstr "Tên"
+
+#: framework/features/blocks/dynamic-data/options.php:140
+msgid "Display Name"
+msgstr "Tên hiển thị"
+
+#: framework/features/blocks/dynamic-data/options.php:139
+msgid "Nicename"
+msgstr "Nicename"
+
+#: framework/features/blocks/dynamic-data/options.php:132
+msgid "Author Field"
+msgstr "Trường Tác giả"
+
+#: framework/features/blocks/dynamic-data/options.php:120
+msgid "Separator"
+msgstr "Ngăn cách"
+
+#: framework/features/blocks/dynamic-data/options.php:108
+msgid "Multiple comments"
+msgstr "Nhiều bình luận"
+
+#: framework/features/blocks/dynamic-data/options.php:102
+#: framework/features/blocks/dynamic-data/options.php:103
+#: framework/features/blocks/dynamic-data/views/wp-field.php:203
+msgid "One comment"
+msgstr "Một bình luận"
+
+#: framework/features/blocks/dynamic-data/options.php:96
+#: framework/features/blocks/dynamic-data/options.php:97
+#: framework/features/blocks/dynamic-data/views/wp-field.php:202
+msgid "No comments"
+msgstr "Không có bình luận"
+
+#: framework/features/blocks/dynamic-data/options.php:79
+msgid "Enter a date or time"
+msgstr "Nhập ngày hoặc thời gian"
+
+#: framework/features/blocks/dynamic-data/options.php:75
+msgid "Custom date format"
+msgstr "Định dạng ngày tùy chỉnh"
+
+#: framework/features/blocks/dynamic-data/options.php:41
+msgid "Example: January 24, 2022"
+msgstr "Ví dụ: Ngày 24 tháng 1 năm 2022"
+
+#: framework/features/blocks/dynamic-data/options.php:39
+msgid "Default format"
+msgstr "Định dạng mặc định"
+
+#: framework/features/blocks/dynamic-data/options.php:32
+#: static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/query/edit/PostsInspectorControls.js:141
+msgid "Modified Date"
+msgstr "Ngày sửa đổi"
+
+#: framework/features/blocks/dynamic-data/options.php:31
+msgid "Published Date"
+msgstr "Ngày xuất bản"
+
+#: framework/features/blocks/dynamic-data/options.php:24
+#: framework/features/blocks/dynamic-data/options.php:49
+msgid "Date type"
+msgstr "Loại dữ liệu ngày"
+
+#: framework/features/blocks/dynamic-data/options.php:9
+msgid "Length"
+msgstr "Thời lượng"
+
+#: framework/features/blocks/contact-info/options.php:563
+msgid "Horizontal"
+msgstr "Ngang"
+
+#: framework/features/blocks/contact-info/options.php:562
+msgid "Vertical"
+msgstr "Dọc"
+
+#: framework/features/blocks/contact-info/options.php:556
+msgid "Items Direction"
+msgstr "Mục hướng đi"
+
+#: framework/features/blocks/contact-info/options.php:499
+msgid "Link Icons"
+msgstr "Biểu tượng Liên kết"
+
+#: framework/features/blocks/contact-info/options.php:24
+msgid "Contact Information"
+msgstr "Thông tin liên hệ"
+
+#: framework/features/blocks/blocks.php:73
+msgid "Home Page Text"
+msgstr "Văn bản Trang chủ"
+
+#: framework/features/blocks/blocks.php:26
+msgid "Patterns that contain buttons and call to actions."
+msgstr "Các mẫu chứa các nút và hành động kêu gọi."
+
+#: framework/features/blocks/blocks.php:21
+msgctxt "Block pattern category"
+msgid "Blocksy"
+msgstr "Blocksy"
+
+#: framework/features/blocks/about-me/options.php:178
+#: framework/features/blocks/contact-info/options.php:514
+msgid "Items Spacing"
+msgstr "Khoảng cách mục"
+
+#: framework/features/blocks/about-me/options.php:92
+msgid "Image Shape"
+msgstr "Hình dạng Ảnh"
+
+#: framework/features/blocks/about-me/options.php:26
+msgid "Dynamic"
+msgstr "Dữ liệu động"
+
+#: framework/features/blocks/about-me/options.php:21
+msgid "User Source"
+msgstr "Nguồn Người dùng"
+
+#: framework/extensions/product-reviews/extension.php:321
+msgid "Bottom Spacing"
+msgstr "Khoảng cách cuối trang"
+
+#: framework/features/conditions/rules/woo.php:35
+msgid "Product Attributes"
+msgstr "Thuộc tính sản phẩm"
+
+#: framework/features/conditions/rules/woo.php:59
+msgid "Single Product with Taxonomy ID"
+msgstr "Sản phẩm đơn với ID phân loại"
+
+#: framework/features/conditions/rules/woo.php:54
+msgid "Single Product ID"
+msgstr "ID sản phẩm đơn"
+
+#: framework/features/conditions/rules/posts.php:10
+msgid "Post Archives"
+msgstr "Lưu trữ bài viết"
+
+#: framework/features/conditions/rules/archive-loop.php:19
+msgid "Archive Loop Speciffic"
+msgstr "Lưu trữ Vòng lặp cụ thể"
+
+#: framework/features/conditions/rules/archive-loop.php:13
+msgid "WooCommerce Archive Item with Taxonomy ID"
+msgstr "Lưu trữ mục WooCommerce với ID phân loại"
+
+#: framework/features/conditions/rules/archive-loop.php:6
+msgid "Archive Item with Taxonomy ID"
+msgstr "Mục lưu trữ với ID phân loại"
+
+#: framework/features/demo-install/content-installer.php:172
+#: framework/features/demo-install/content-installer.php:178
+msgid "No demo data found."
+msgstr "Không tìm thấy dữ liệu demo."
+
+#: framework/features/demo-install/widgets-import.php:73
+#: framework/features/demo-install/widgets-import.php:79
+msgid "No widgets to install."
+msgstr "Không có widget để cài."
+
+#: framework/features/demo-install/widgets-import.php:36
+msgid "Sorry, you don't have permission to install widgets."
+msgstr "Xin lỗi, bạn không có quyền cài widget."
+
+#: framework/features/demo-install/required-plugins.php:44
+#: framework/features/demo-install/required-plugins.php:49
+msgid "No plugins to install."
+msgstr "Không có plugin nào để cài."
+
+#: framework/features/demo-install/required-plugins.php:37
+msgid "Sorry, you don't have permission to install plugins."
+msgstr "Xin lỗi, bạn không có quyền cài plugin."
+
+#: framework/features/demo-install/plugins-uninstaller.php:9
+msgid "Sorry, you don't have permission to uninstall plugins."
+msgstr "Xin lỗi, bạn không có quyền gỡ cài đặt plugin."
+
+#: framework/features/demo-install/options-import.php:45
+#: framework/features/demo-install/options-import.php:50
+#: framework/features/demo-install/options-import.php:75
+#: framework/features/demo-install/options-import.php:80
+#: framework/features/demo-install/widgets-import.php:43
+#: framework/features/demo-install/widgets-import.php:48
+msgid "No demo to install"
+msgstr "Không có bản demo để cài"
+
+#: framework/features/demo-install/options-import.php:38
+msgid "Sorry, you don't have permission to install options."
+msgstr "Xin lỗi, bạn không có quyền cài tuỳ chọn."
+
+#: framework/features/demo-install/install-finish.php:23
+msgid "Sorry, you don't have permission to finish the installation."
+msgstr "Xin lỗi, bạn không có quyền hoàn tất việc cài đặt."
+
+#: framework/features/demo-install/content-installer.php:329
+#: framework/features/demo-install/content-installer.php:334
+msgid "No pages to assign."
+msgstr "Không có trang nào để gán."
+
+#: framework/features/demo-install/content-installer.php:52
+msgid "Sorry, you don't have permission to install content."
+msgstr "Xin lỗi, bạn không có quyền cài nội dung."
+
+#: framework/features/demo-install/content-eraser.php:23
+msgid "Sorry, you don't have permission to erase content."
+msgstr "Xin lỗi, bạn không có quyền xóa nội dung."
+
+#: framework/features/demo-install/child-theme.php:9
+msgid "Sorry, you don't have permission to install child themes."
+msgstr "Xin lỗi, bạn không có quyền cài đặt giao diện con."
+
+#: framework/features/demo-install.php:115
+#: framework/features/demo-install/content-installer.php:142
+#: framework/features/demo-install/content-installer.php:147
+#: framework/features/demo-install/demo-register.php:9
+msgid "No demo name provided."
+msgstr "Không có tên demo được cung cấp."
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:127
+#: framework/extensions/newsletter-subscribe/customizer.php:94
+msgid "Make Name Field Required"
+msgstr "Yêu cầu Trường Tên"
+
+#: framework/features/header/items/account/options.php:1945
+msgid "Link Active"
+msgstr "Liên kết Hoạt động"
+
+#: framework/features/header/items/account/options.php:1895
+msgid "Font"
+msgstr "Font"
+
+#: framework/features/header/items/account/options.php:727
+msgid "Boxed Color"
+msgstr "Màu hộp"
+
+#: framework/features/header/items/account/options.php:717
+msgid "Items Hover Effect"
+msgstr "Hiệu ứng di chuột của mục"
+
+#: framework/features/header/items/account/options.php:142
+msgid "Menu"
+msgstr "Menu"
+
+#: framework/features/header/items/account/options.php:53
+msgid "Available fields: {user_email}, {user_name}, {user_role}"
+msgstr "Các trường có sẵn: {user_email}, {user_name}, {user_role}"
+
+#: framework/features/header/items/account/options.php:49
+msgid "Additional User Info"
+msgstr "Thông tin người dùng bổ sung"
+
+#: framework/features/header/items/account/options.php:15
+msgid "Action Link"
+msgstr "Liên kết Hành động"
+
+#: framework/helpers/exts.php:278
+msgid "Free Shipping Bar"
+msgstr "Thanh Miễn phí Vận chuyển"
+
+#: framework/extensions/trending/customizer.php:153
+msgid "Module Title Icon Source"
+msgstr "Nguồn biểu tượng Tiêu đề Module"
+
+#: framework/helpers/exts.php:271
+msgid "Enhance your WooCommerce reviews with rich content, images and a thumbs up system that help your shoppers find the perfect product."
+msgstr "Nâng cao đánh giá của bạn trên WooCommerce với nội dung phong phú, ảnh và hệ thống nút like giúp người mua của bạn tìm thấy sản phẩm hoàn hảo."
+
+#: framework/helpers/exts.php:270
+msgid "Advanced Reviews"
+msgstr "Đánh giá Nâng Cao"
+
+#: framework/helpers/exts.php:262
+msgid "Create a customized order “Thank You” page for your customers, giving them a personalized experience."
+msgstr "Tạo một trang \"Cảm ơn\" tuỳ chỉnh cho đơn hàng của bạn, mang lại trải nghiệm cá nhân hóa cho khách hàng của bạn."
+
+#: framework/helpers/exts.php:261
+msgid "Custom Thank You Pages"
+msgstr "Trang Cảm Ơn Tùy Chỉnh"
+
+#: framework/helpers/exts.php:253
+msgid "Show a size chart guide so that your visitors can pick the right size for them when ordering a product."
+msgstr "Hiển thị một bảng hướng dẫn kích thước để khách truy cập có thể chọn được kích thước phù hợp khi đặt hàng sản phẩm."
+
+#: framework/helpers/exts.php:252
+msgid "Size Guide"
+msgstr "Hướng dẫn kích thước"
+
+#: framework/helpers/exts.php:244
+msgid "Present additional information about your products by adding new custom tabs to the product information section."
+msgstr "Hiện thêm thông tin bổ sung về sản phẩm của bạn bằng cách thêm các tab tùy chỉnh mới vào phần thông tin sản phẩm."
+
+#: framework/helpers/exts.php:243
+msgid "Custom Tabs"
+msgstr "Tab tùy chỉnh"
+
+#: framework/helpers/exts.php:310
+msgid "Better management for affiliate products with a few simple options that strengthen the external integration with these."
+msgstr "Quản lý tốt hơn cho các sản phẩm liên kết với một số tuỳ chọn đơn giản giúp tăng cường tích hợp bên ngoài với chúng."
+
+#: framework/helpers/exts.php:309
+msgid "Affiliate Product Links"
+msgstr "Liên kết Sản phẩm tiếp thị"
+
+#: framework/helpers/exts.php:235
+msgid "Categorise products by brands and show their logo in archive or single page so users could discover more about their makers."
+msgstr "Phân loại sản phẩm theo thương hiệu và hiển thị logo của họ trong lưu trữ hoặc trang đơn lẻ để người dùng có thể khám phá thêm về nhà sản xuất của họ."
+
+#: framework/features/conditions/rules/woo.php:42
+#: framework/helpers/exts.php:234
+msgid "Product Brands"
+msgstr "Thương hiệu sản phẩm"
+
+#: framework/helpers/exts.php:227
+msgid "Catch the attention of your clients by showcasing your product variations as colour, image or button swatches."
+msgstr "Thu hút sự chú ý của khách hàng bằng cách trưng bày các biến thể sản phẩm của bạn dưới dạng mẫu màu sắc, ảnh hoặc nút."
+
+#: framework/helpers/exts.php:226
+msgid "Variation Swatches"
+msgstr "Mẫu Biến Thể"
+
+#: framework/helpers/exts.php:279
+msgid "Add a visual cue that tells your visitors how much the cart total must be to be able to benefit of free shipping."
+msgstr "Thêm gợi ý trực quan cho khách truy cập biết tổng số giỏ hàng phải có là bao nhiêu để có thể hưởng lợi từ việc giao hàng miễn phí."
+
+#: framework/helpers/exts.php:303
+msgid "Advanced searching for products by their SKU classification can be useful in cases of vast product catalogues."
+msgstr "Tìm kiếm nâng cao cho các sản phẩm theo phân loại SKU có thể hữu ích trong trường hợp của các danh mục sản phẩm rộng lớn."
+
+#: framework/helpers/exts.php:302
+msgid "Search by SKU"
+msgstr "Tìm theo SKU"
+
+#: framework/helpers/exts.php:287
+msgid "Replace the standard product gallery with additional layouts which can showcase the photos as a grid or even a slider."
+msgstr "Thay thế album ảnh sản phẩm tiêu chuẩn bằng các bố cục bổ sung có thể hiển thị các hình ảnh dưới dạng lưới hoặc thậm chí là một thanh trượt."
+
+#: framework/helpers/exts.php:286
+msgid "Advanced Gallery"
+msgstr "Album ảnh nâng cao"
+
+#: framework/helpers/exts.php:295
+msgid "Enable social sharing abilities for products available on the site, letting even more users discover your great shop selection."
+msgstr "Bật khả năng chia sẻ trên mạng xã hội cho các sản phẩm có sẵn trên trang web, giúp người dùng khác khám phá lựa chọn tuyệt vời của cửa hàng của bạn."
+
+#: framework/helpers/exts.php:294
+msgid "Product Share Box"
+msgstr "Hộp Chia Sẻ Sản Phẩm"
+
+#: framework/helpers/exts.php:219
+msgid "Compare products with a clear and concise table system that gives your users a way to make a quick decision."
+msgstr "So sánh các sản phẩm với hệ thống bảng rõ ràng và ngắn gọn giúp người dùng của bạn có cách để đưa ra quyết định nhanh chóng."
+
+#: framework/helpers/exts.php:218
+msgid "Compare View"
+msgstr "Xem so sánh"
+
+#: framework/helpers/exts.php:211
+msgid "A set of features that lets you create easily your dream products wishlists and share them with friends and family."
+msgstr "Một bộ tính năng cho phép bạn dễ dàng tạo danh sách sản phẩm yêu thích của bạn và chia sẻ chúng với bạn bè và gia đình."
+
+#: framework/helpers/exts.php:203
+msgid "Drill down the product list with new filtering widgets, an off canvas area for them and showing the active filters on the page."
+msgstr "Lọc danh sách sản phẩm với các widget lọc mới, một khu vực off canvas cho chúng và hiển thị các bộ lọc đang hoạt động trên trang."
+
+#: framework/helpers/exts.php:202
+msgid "Filters"
+msgstr "Bộ lọc"
+
+#: framework/helpers/exts.php:195
+msgid "Preview the available products and let your users make quick and informative decisions about their purchase."
+msgstr "Xem trước các sản phẩm có sẵn và cho phép người dùng của bạn đưa ra quyết định nhanh chóng và đầy đủ thông tin về việc mua hàng của họ."
+
+#: framework/helpers/exts.php:187
+msgid "Adds the “add to cart” actions to the product page as a floating bar if the product summary has disappeared from view."
+msgstr "Thêm hành động \"thêm vào giỏ hàng\" vào trang sản phẩm dưới dạng thanh đứng nổi nếu bản tóm tắt sản phẩm đã biến mất khỏi tầm nhìn."
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/helpers/exts.php:176
+msgid "Make the shopping experience better for your visitors! Add features such as Product Quick View, Wishlist functionality and a Floating Add to Cart button. Customize the single product gallery/slider and the layout."
+msgstr "Để trải nghiệm mua sắm tốt hơn cho khách truy cập của bạn! Thêm các tính năng như Xem Nhanh Sản Phẩm, Chức năng Yêu Thích và một nút Thêm vào Giỏ Hàng Nổi. Tuỳ chỉnh album ảnh/slide sản phẩm đơn lẻ và bố cục."
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/helpers/exts.php:175
+msgctxt "Extension Brand Name"
+msgid "Shop Extra"
+msgstr "Bổ sung cho cửa hàng"
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/helpers/exts.php:163
+msgid "Replace Blocksy's branding with your own. Easily hide licensing info and other sections of the theme and companion plugin from your clients and make your final product look more professional."
+msgstr "Thay thế thương hiệu của Blocksy bằng của bạn. Dễ dàng ẩn thông tin về bản quyền và các phần khác của giao diện và plugin đi kèm khỏi khách hàng của bạn và làm cho sản phẩm cuối cùng của bạn trở nên chuyên nghiệp hơn."
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/helpers/exts.php:162
+msgctxt "Extension Brand Name"
+msgid "White Label"
+msgstr "White Label"
+
+#: framework/helpers/exts.php:147
+msgid "Create New Sidebar"
+msgstr "Tạo Thanh bên mới"
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/helpers/exts.php:143
+msgid "Create unlimited personalized sets of widget areas and display them on any page or post using our conditional logic functionality."
+msgstr "Tạo bất kỳ số lượng bộ sưu tập widget cá nhân hóa và hiển thị chúng trên bất kỳ trang hoặc bài đăng nào bằng cách sử dụng chức năng logic điều kiện của chúng tôi."
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/helpers/exts.php:142
+msgctxt "Extension Brand Name"
+msgid "Multiple Sidebars"
+msgstr "Nhiều thanh bên"
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/helpers/exts.php:128
+msgid "Easily turn your websites into mobile first experiences. You can easily add the most important actions at the bottom of the screen for easy access."
+msgstr "Dễ dàng biến trang web của bạn thành trải nghiệm di động hàng đầu. Bạn có thể dễ dàng thêm các hành động quan trọng nhất ở dưới cùng của trang để truy cập dễ dàng."
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/helpers/exts.php:127
+msgctxt "Extension Brand Name"
+msgid "Shortcuts Bar"
+msgstr "Thanh phím tắt"
+
+#: framework/helpers/exts.php:112
+msgid "Additional customisation options for your taxonomies such as hero backgrounds and custom colour labels."
+msgstr "Các tuỳ chọn tùy chỉnh bổ sung cho các phân loại của bạn như nền hero và nhãn màu tùy chỉnh."
+
+#: framework/helpers/exts.php:111
+msgid "Taxonomy Customisations"
+msgstr "Tùy chỉnh phân loại"
+
+#: framework/helpers/exts.php:105
+msgid "Let your guests easily filter the posts by their category or tags taxonomy terms, instantly drilling down the listings."
+msgstr "Hãy để khách của bạn dễ dàng lọc bài viết theo chuyên mục hoặc thẻ của term taxonomy, ngay lập tức thu gọn danh sách."
+
+#: framework/helpers/exts.php:104
+msgid "Posts Filter"
+msgstr "Bộ lọc bài viết"
+
+#: framework/helpers/exts.php:98
+msgid "Integrates custom fields solutions in the meta layers of a post and presents additional information."
+msgstr "Hợp nhất các giải pháp trường tùy chỉnh trong các lớp meta của một bài viết và hiển thị thông tin bổ sung."
+
+#: framework/helpers/exts.php:97 static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/dynamic-data/index.js:16
+#: static/js/editor/blocks/dynamic-data/index.js:100
+msgid "Dynamic Data"
+msgstr "Dữ liệu động"
+
+#: framework/helpers/exts.php:91
+msgid "Display the approximate reading time of an article, so that visitors know what to expect when starting to read the content."
+msgstr "Hiển thị thời gian đọc của một bài viết, để khách truy cập biết điều gì đang chờ họ khi bắt đầu đọc nội dung."
+
+#: framework/helpers/exts.php:90
+msgid "Read Time"
+msgstr "Thời gian đọc"
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/helpers/exts.php:85
+msgid "Enables support for Custom Fields inside archive cards and single page post title, adds a reading progress bar for your posts and lets you set featured images and colors for your categories archives."
+msgstr "Bật tính năng hỗ trợ Trường tùy chỉnh trong thẻ lưu trữ và tiêu đề bài viết trang đơn, thêm thanh thời gian đọc cho bài viết của bạn và cho phép bạn thiết lập ảnh đại diện và màu sắc cho lưu trữ danh mục của bạn."
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/helpers/exts.php:84
+msgctxt "Extension Brand Name"
+msgid "Post Types Extra"
+msgstr "Loại Bài viết Bổ sung"
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/helpers/exts.php:72
+msgid "Create beautiful personalised menus that set your website apart from the others. Add icons and badges to your entries and even add Content Blocks inside your dropdowns."
+msgstr "Tạo menu cá nhân đẹp mắt để làm nổi bật trang web của bạn so với các trang khác. Thêm biểu tượng và huy hiệu vào các mục của bạn và thậm chí thêm các Khối nội dung vào trong menu thả xuống của bạn."
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/helpers/exts.php:71
+msgctxt "Extension Brand Name"
+msgid "Advanced Menu"
+msgstr "Menu Nâng Cao"
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/helpers/exts.php:57
+msgid "Serve your chosen Google Fonts from your own web server. This will increase the loading speed and makes sure your website complies with the privacy regulations."
+msgstr "Cung cấp font chữ Google mà bạn đã chọn từ máy chủ web. Điều này sẽ tăng tốc độ tải và đảm bảo trang web của bạn tuân thủ các quy định về quyền riêng tư."
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/helpers/exts.php:56
+msgctxt "Extension Brand Name"
+msgid "Local Google Fonts"
+msgstr "Font Google Local"
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/helpers/exts.php:45
+msgid "Upload an unlimited number of custom fonts or variable fonts and use them throughout Blocksy and your favorite page builder."
+msgstr "Tải lên một số lượng font chữ tùy chỉnh hoặc font chữ biến đổi không giới hạn và sử dụng chúng trên toàn bộ Blocksy và trình xây dựng trang web yêu thích của bạn."
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/helpers/exts.php:44
+msgctxt "Extension Brand Name"
+msgid "Custom Fonts"
+msgstr "Fonts tuỳ chỉnh"
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/helpers/exts.php:32
+msgid "Add a dark colour scheme and switch to your website, which will make it pleasant to look at in low light environments."
+msgstr "Thêm một chủ đề màu tối và chuyển sang trang web của bạn, điều này sẽ khiến nó trở nên dễ nhìn hơn trong môi trường ánh sáng yếu."
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/helpers/exts.php:31
+msgctxt "Extension Brand Name"
+msgid "Color Mode Switch"
+msgstr "Chuyển Đổi Chế Độ Màu"
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/helpers/exts.php:19
+msgid "Inject custom code snippets throughout your website. The extension works globally or on a per post/page basis."
+msgstr "Chèn đoạn mã tùy chỉnh vào khắp trang web của bạn. Phần mở rộng hoạt động toàn cầu hoặc theo từng bài viết/Trang."
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/helpers/exts.php:18
+msgctxt "Extension Brand Name"
+msgid "Custom Code Snippets"
+msgstr "Mã tùy chỉnh"
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/helpers/exts.php:8
+msgid "Connect your Adobe Fonts project and use the selected fonts throughout Blocksy and your favorite page builder."
+msgstr "Kết nối dự án font chữ Adobe của bạn và sử dụng các font chữ đã chọn trong toàn bộ Blocksy và trang xây dựng yêu thích của bạn."
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/helpers/exts.php:7
+msgctxt "Extension Brand Name"
+msgid "Adobe Fonts"
+msgstr "Fonts Adobe"
+
+#: framework/features/header/items/account/views/login.php:516
+#: framework/helpers/exts.php:210
+msgid "Wishlist"
+msgstr "Yêu thích"
+
+#: framework/features/header/items/account/options.php:2034
+msgid "Border Radius"
+msgstr "Bo viền"
+
+#: framework/features/header/items/account/options.php:1939
+#: static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/breadcrumbs/Edit.js:66
+#: static/js/editor/blocks/contact-info/Edit.js:123
+msgid "Link Hover"
+msgstr "Liên kết khi di chuột"
+
+#: framework/features/header/items/account/options.php:1933
+#: static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/breadcrumbs/Edit.js:60
+#: static/js/editor/blocks/contact-info/Edit.js:114
+msgid "Link Initial"
+msgstr "Liên kết ban đầu"
+
+#: framework/features/header/items/account/options.php:1927
+msgid "Text Initial"
+msgstr "Văn bản ban đầu"
+
+#: framework/features/header/items/account/options.php:1890
+msgid "Dropdown Options"
+msgstr "Tùy chọn thả xuống"
+
+#: framework/features/header/items/account/options.php:687
+msgid "Link To"
+msgstr "Liên kết tới"
+
+#: framework/features/header/items/account/options.php:630
+msgid "Dropdown Items"
+msgstr "Mục thả xuống"
+
+#: framework/features/header/items/account/options.php:619
+msgid "Link"
+msgstr "Liên kết"
+
+#: framework/features/header/items/account/options.php:618
+msgid "Dropdown"
+msgstr "Thả xuống"
+
+#: framework/features/header/items/account/options.php:257
+msgid "Create a new content Block/Hook"
+msgstr "Tạo một Khối/Hook nội dung mới"
+
+#: framework/features/header/items/account/options.php:254
+#: framework/features/header/items/account/options.php:262
+msgid "Select Content Block"
+msgstr "Chọn Khối Nội dung"
+
+#: framework/features/header/items/account/options.php:247
+msgid "Content Block"
+msgstr "Khối Nội dung"
+
+#: framework/features/header/items/account/options.php:235
+#: framework/features/header/items/account/views/login.php:646
+msgid "bbPress Dashboard"
+msgstr "bbPress Dashboard"
+
+#: framework/features/header/items/account/options.php:215
+#: framework/features/header/items/account/options.php:219
+#: framework/features/header/items/account/views/login.php:619
+msgid "Tutor LMS Dashboard"
+msgstr "Bảng Tổng quan Tutor LMS"
+
+#: framework/features/header/items/account/options.php:199
+#: framework/features/header/items/account/options.php:203
+#: framework/features/header/items/account/views/login.php:587
+msgid "Dokan Shop"
+msgstr "Dokan Shop"
+
+#: framework/features/header/items/account/options.php:185
+#: framework/features/header/items/account/options.php:189
+#: framework/features/header/items/account/views/login.php:553
+msgid "Dokan Dashboard"
+msgstr "Bảng tổng quan Dokan"
+
+#: framework/features/header/items/account/options.php:101
+#: framework/features/header/items/account/options.php:105
+#: framework/features/header/items/account/options.php:667
+#: framework/features/header/items/account/views/login.php:170
+#: framework/features/header/items/account/views/login.php:385
+msgid "Log Out"
+msgstr "Đăng xuất"
+
+#: framework/features/header/items/account/options.php:91
+#: framework/features/header/items/account/options.php:658
+#: framework/features/header/items/account/views/login.php:164
+#: framework/features/header/items/account/views/login.php:364
+msgid "Edit Profile"
+msgstr "Sửa Hồ sơ"
+
+#: framework/features/header/items/account/options.php:68
+#: framework/features/header/items/account/options.php:1999
+msgid "Divider"
+msgstr "Đường phân cách"
+
+#: framework/features/header/items/account/options.php:60
+msgid "User Avatar"
+msgstr "Hình đại diện người dùng"
+
+#: framework/features/header/items/account/options.php:12
+msgid "User Info"
+msgstr "Thông tin người dùng"
+
+#: framework/features/conditions/rules/woo.php:80
+msgid "Product with Taxonomy ID"
+msgstr "Sản phẩm với ID phân loại"
+
+#: framework/features/conditions/rules/woo.php:75
+msgid "Product ID"
+msgstr "ID Sản phẩm"
+
+#: framework/features/conditions/rules/specific.php:31
+msgid "Post with Author ID"
+msgstr "Bài đăng với ID tác giả"
+
+#: framework/features/conditions/rules/requests.php:19
+msgid "Request URL"
+msgstr "URL Yêu cầu"
+
+#: framework/features/conditions/rules/requests.php:14
+msgid "Request Cookie"
+msgstr "Yêu cầu Cookie"
+
+#: framework/features/conditions/rules/requests.php:9
+msgid "Request Referer"
+msgstr "Yêu cầu người giới thiệu"
+
+#: framework/features/conditions/rules/requests.php:5
+msgid "Requests"
+msgstr "Yêu cầu"
+
+#: framework/features/conditions/rules/date-time.php:14
+#: static/bundle/options.js:15
+#: static/js/options/ConditionsManager/ScheduleDate.js:143
+msgid "Recurring Days"
+msgstr "Những Ngày Lặp Lại"
+
+#: framework/features/conditions/rules/date-time.php:9
+msgid "Range Date/Time"
+msgstr "Thời gian/Khoảng thời gian"
+
+#: framework/features/conditions/rules/date-time.php:5
+msgid "Date & Time"
+msgstr "Ngày & Giờ"
+
+#: framework/features/conditions/rules/basic.php:35
+msgid "All Archives"
+msgstr "Lưu trữ tất cả"
+
+#: framework/features/conditions/rules/basic.php:28
+msgid "All Singulars"
+msgstr "Tất cả các số ít"
+
+#: framework/features/conditions/rules/basic.php:6
+msgid "All Products"
+msgstr "Tất cả sản phẩm"
+
+#: framework/extensions/newsletter-subscribe/providers/demo.php:16
+msgid "Demo List"
+msgstr "Danh sách Demo"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:137
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:152
+msgid "Your email *"
+msgstr "Email của bạn *"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:98
+msgid "Fields Gap"
+msgstr "Khoảng cách trường"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:87
+#: framework/features/blocks/search/options.php:70
+msgid "Input Height"
+msgstr "Nhập chiều cao"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:68
+msgid "Stacked"
+msgstr "Xếp chồng"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:60
+msgid "Form Style"
+msgstr "Kiểu biểu mẫu"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:15
+#: framework/extensions/newsletter-subscribe/customizer.php:28
+#: framework/extensions/newsletter-subscribe/helpers.php:24
+msgid "Enter your email address below and subscribe to our newsletter"
+msgstr "Nhập địa chỉ email của bạn bên dưới và theo dõi bản tin của chúng tôi"
+
+#: framework/features/blocks/share-box/options.php:25
+#: framework/theme-integration.php:221
+msgid "X (Twitter)"
+msgstr "X (Twitter)"
+
+#: framework/extensions/trending/customizer.php:500
+msgid "Arrows Color"
+msgstr "Màu mũi tên"
+
+#: framework/extensions/trending/customizer.php:469
+msgid "Posts Title Font Color"
+msgstr "Màu Font tiêu đề bài viết"
+
+#: framework/extensions/trending/customizer.php:460
+msgid "Posts Title Font"
+msgstr "Font Tiêu đề Bài viết"
+
+#: framework/extensions/trending/customizer.php:409
+msgid "Module Title Color"
+msgstr "Màu Tiêu đề Module"
+
+#: framework/extensions/trending/customizer.php:401
+msgid "Module Title Font"
+msgstr "Font Tiêu đề Module"
+
+#: framework/theme-integration.php:234
+msgid "Mastodon"
+msgstr "Mastodon"
+
+#: framework/extensions/cookies-consent/extension.php:106
+msgid "Comment Submission Failure"
+msgstr "Gửi bình luận thất bại"
+
+#: framework/extensions/cookies-consent/extension.php:105
+msgid "Please accept the Privacy Policy in order to comment."
+msgstr "Vui lòng chấp nhận Chính sách Bảo mật để có thể bình luận."
+
+#: framework/dashboard.php:34
+#: framework/features/header/items/account/options.php:23
+#: framework/features/header/items/account/options.php:73
+#: framework/features/header/items/account/options.php:77
+#: framework/features/header/items/account/options.php:649
+#: framework/features/header/items/account/views/login.php:158
+#: framework/features/header/items/account/views/login.php:335
+msgid "Dashboard"
+msgstr "Tổng quan"
+
+#: framework/theme-integration.php:97
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "Vui lòng nhập giá trị lớn hơn hoặc bằng {0}."
+
+#: framework/theme-integration.php:96
+msgid "Please enter a value less than or equal to {0}."
+msgstr "Vui lòng nhập giá trị nhỏ hơn hoặc bằng {0}."
+
+#: framework/theme-integration.php:95
+msgid "Please enter a value between {0} and {1}."
+msgstr "Vui lòng nhập giá trị nằm trong khoảng từ {0} đến {1}."
+
+#: framework/theme-integration.php:94
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr "Vui lòng nhập giá trị từ {0} đến {1} ký tự."
+
+#: framework/theme-integration.php:93
+msgid "Please enter at least {0} characters."
+msgstr "Vui lòng nhập ít nhất {0} ký tự."
+
+#: framework/theme-integration.php:92
+msgid "Please enter no more than {0} characters."
+msgstr "Vui lòng không nhập nhiều hơn {0} ký tự."
+
+#: framework/theme-integration.php:91
+msgid "Please enter the same value again."
+msgstr "Vui lòng nhập lại giá trị giống như trước."
+
+#: framework/theme-integration.php:90
+msgid "Please enter a valid credit card number."
+msgstr "Vui lòng nhập số thẻ tín dụng hợp lệ."
+
+#: framework/theme-integration.php:89
+msgid "Please enter only digits."
+msgstr "Vui lòng chỉ nhập các chữ số."
+
+#: framework/theme-integration.php:88
+msgid "Please enter a valid number."
+msgstr "Vui lòng nhập một số hợp lệ."
+
+#: framework/theme-integration.php:87
+msgid "Please enter a valid date (ISO)."
+msgstr "Vui lòng nhập ngày hợp lệ (ISO)."
+
+#: framework/theme-integration.php:86
+msgid "Please enter a valid date."
+msgstr "Vui lòng nhập một ngày hợp lệ."
+
+#: framework/theme-integration.php:85
+msgid "Please enter a valid URL."
+msgstr "Vui lòng nhập đường dẫn hợp lệ."
+
+#: framework/theme-integration.php:84
+msgid "Please enter a valid email address."
+msgstr "Vui lòng nhập địa chỉ email hợp lệ."
+
+#: framework/theme-integration.php:83
+msgid "Please fix this field."
+msgstr "Vui lòng sửa trường này."
+
+#: framework/theme-integration.php:82
+msgid "This field is required"
+msgstr "Trường này là bắt buộc"
+
+#. translators: 1: link open 2: link close
+#: framework/features/account-auth.php:106
+msgid "Check your email for the confirmation link, then visit the %slogin page%s."
+msgstr "Vui lòng kiểm tra email của bạn để lấy liên kết xác nhận, sau đó truy cập %strang đăng nhập%s."
+
+#. translators: 1: link open 2: link close
+#: framework/features/account-auth.php:253
+msgid "Registration complete. Please check your email, then visit the %1$slogin page%2$s."
+msgstr "Đăng ký hoàn tất. Vui lòng kiểm tra email của bạn, sau đó truy cập %1$strang đăng nhập%2$s."
+
+#. translators: 1: link open 2: link close
+#: framework/features/account-auth.php:238
+msgid "Your account was created successfully and a password has been sent to your email address. Please visit the %1$slogin page%2$s."
+msgstr "Tài khoản của bạn đã được tạo thành công và mật khẩu đã được gửi đến địa chỉ email của bạn. Vui lòng truy cập %1$strang đăng nhập%2$s."
+
+#. translators: 1: link open 2: link close
+#: framework/features/account-auth.php:226
+msgid "Your account was created successfully. Your login details have been sent to your email address. Please visit the %1$slogin page%2$s."
+msgstr "Tài khoản của bạn đã được tạo thành công. Thông tin đăng nhập của bạn đã được gửi đến địa chỉ email của bạn. Vui lòng truy cập %1$s trang đăng nhập %2$s."
+
+#: framework/dashboard.php:397
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Bạn không có đủ quyền để truy cập trang này."
+
+#: framework/theme-integration.php:69
+msgctxt "password mismatch"
+msgid "Mismatch"
+msgstr "Không khớp"
+
+#: framework/theme-integration.php:68
+msgctxt "password strength"
+msgid "Strong"
+msgstr "Mạnh"
+
+#: framework/theme-integration.php:67
+msgctxt "password strength"
+msgid "Medium"
+msgstr "Trung bình"
+
+#: framework/theme-integration.php:66
+msgctxt "password strength"
+msgid "Weak"
+msgstr "Yếu"
+
+#: framework/theme-integration.php:65
+msgctxt "password strength"
+msgid "Very weak"
+msgstr "Rất yếu"
+
+#: framework/theme-integration.php:64
+msgctxt "password strength"
+msgid "Password strength unknown"
+msgstr "Mật khẩu mạnh không xác định"
+
+#: framework/theme-integration.php:53
+msgid "Please enter a stronger password."
+msgstr "Vui lòng nhập mật khẩu mạnh hơn."
+
+#: framework/features/header/modal/register.php:76
+msgid "A link to set a new password will be sent to your email address."
+msgstr "Một liên kết để đặt mật khẩu mới sẽ được gửi đến địa chỉ email của bạn."
+
+#: framework/features/conditions/rules/pages.php:46
+msgid "Author Archives"
+msgstr "Lưu trữ tác giả"
+
+#: framework/features/blocks/about-me/options.php:195
+#: framework/features/blocks/share-box/options.php:130
+#: framework/features/blocks/socials/options.php:101
+msgid "Official"
+msgstr "Chính thức"
+
+#: framework/features/blocks/about-me/options.php:187
+#: framework/features/blocks/share-box/options.php:122
+#: framework/features/blocks/socials/options.php:93
+#: static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/about-me/Edit.js:117
+#: static/js/editor/blocks/contact-info/Edit.js:133
+msgid "Icons Color"
+msgstr "Màu Icon"
+
+#: framework/extensions/newsletter-subscribe/helpers.php:142
+msgid "First name"
+msgstr "Tên"
+
+#: framework/features/conditions/rules/pages.php:39
+msgid "Privacy Policy Page"
+msgstr "Trang Chính sách bảo mật"
+
+#: framework/features/blocks/contact-info/options.php:83
+#: framework/features/blocks/contact-info/options.php:146
+#: framework/features/blocks/contact-info/options.php:207
+#: framework/features/blocks/contact-info/options.php:268
+#: framework/features/blocks/contact-info/options.php:329
+#: framework/features/blocks/contact-info/options.php:390
+#: framework/features/blocks/contact-info/options.php:451
+#: framework/features/header/items/account/options.php:375
+#: framework/features/header/items/account/options.php:756
+msgid "Icon Source"
+msgstr "Nguồn Icon"
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/extensions/trending/config.php:5
+#: framework/extensions/trending/customizer.php:97
+msgctxt "Extension Brand Name"
+msgid "Trending Posts"
+msgstr "Bài viết nổi bật"
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/extensions/product-reviews/config.php:5
+msgctxt "Extension Brand Name"
+msgid "Product Reviews"
+msgstr "Đánh giá sản phẩm"
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/extensions/newsletter-subscribe/config.php:5
+msgctxt "Extension Brand Name"
+msgid "Newsletter Subscribe"
+msgstr "Đăng ký bản tin"
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/extensions/cookies-consent/config.php:5
+#: framework/extensions/cookies-consent/customizer.php:5
+msgctxt "Extension Brand Name"
+msgid "Cookies Consent"
+msgstr "Cookies Consent"
+
+#: framework/extensions/trending/customizer.php:307
+#: framework/features/blocks/about-me/options.php:81
+msgid "Image Size"
+msgstr "Kích thước ảnh"
+
+#: framework/features/header/header-options.php:84
+#: static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/query/edit/PostsInspectorControls.js:46
+#: static/js/editor/blocks/query/edit/PostsInspectorControls.js:73
+#: static/js/editor/blocks/tax-query/edit/TermsInspectorControls.js:42
+#: static/js/editor/blocks/tax-query/edit/TermsInspectorControls.js:69
+msgid "Offset"
+msgstr "Lệch"
+
+#: framework/features/header/header-options.php:68
+msgid "Effect"
+msgstr "Hiệu ứng"
+
+#: framework/extensions/newsletter-subscribe/providers/brevo.php:116
+#: framework/extensions/newsletter-subscribe/providers/campaign-monitor.php:136
+#: framework/extensions/newsletter-subscribe/providers/convertkit.php:97
+#: framework/extensions/newsletter-subscribe/providers/demo.php:40
+#: framework/extensions/newsletter-subscribe/providers/mailerlite-classic.php:104
+#: framework/extensions/newsletter-subscribe/providers/mailerlite-new.php:123
+msgid "Thank you for subscribing to our newsletter!"
+msgstr "Cảm ơn bạn đã Đăng ký nhận bản tin của chúng tôi!"
+
+#: framework/extensions/cookies-consent/customizer.php:266
+msgid "Decline Button"
+msgstr "Nút từ chối"
+
+#: framework/extensions/cookies-consent/customizer.php:199
+msgid "Accept Button"
+msgstr "Nút chấp nhận"
+
+#: framework/extensions/cookies-consent/customizer.php:147
+#: framework/extensions/newsletter-subscribe/customizer.php:196
+#: static/bundle/blocks/blocks.js:7 static/js/editor/blocks/about-me/Edit.js:89
+#: static/js/editor/blocks/breadcrumbs/Edit.js:43
+#: static/js/editor/blocks/contact-info/Edit.js:96
+msgid "Text Color"
+msgstr "Màu chữ"
+
+#: framework/extensions/cookies-consent/customizer.php:88
+#: framework/extensions/cookies-consent/helpers.php:11
+msgid "Decline"
+msgstr "Từ chối"
+
+#: framework/extensions/cookies-consent/customizer.php:85
+msgid "Decline Button text"
+msgstr "Tên nút từ chối"
+
+#: framework/extensions/cookies-consent/customizer.php:76
+msgid "Accept Button text"
+msgstr "Văn bản nút Chấp nhận"
+
+#. translators: placeholder here means the actual URL.
+#: framework/features/blocks/socials/options.php:24
+msgid "Configure the social links in Customizer ➝ General ➝ %sSocial Network Accounts%s."
+msgstr "Cấu hình các liên kết xã hội trong Tuỳ biến ➝ Tổng quan ➝ %sTài khoản mạng xã hội%s."
+
+#: framework/extensions/product-reviews/metabox.php:60
+msgid "Please note that some of this information (price, sku, brand) won't be displayed on the front-end. It is solely used for Google's Schema.org markup."
+msgstr "Xin lưu ý rằng một số thông tin này (giá cả, sku, thương hiệu) sẽ không được hiển thị trên giao diện người dùng. Nó chỉ được sử dụng cho đánh dấu Schema.org của Google."
+
+#: framework/features/header/items/account/options.php:306
+msgid "Customizing: Logged out State"
+msgstr "Tùy chỉnh: Trạng thái đăng xuất"
+
+#: framework/features/header/account-modal.php:25
+msgid "Close account modal"
+msgstr "Thoát Modal tài khoản"
+
+#: framework/features/header/items/account/options.php:1100
+msgid "Logged Out"
+msgstr "Đăng xuất"
+
+#: framework/features/header/items/account/options.php:1099
+msgid "Logged In"
+msgstr "Đăng nhập"
+
+#: framework/features/header/items/account/options.php:1088
+msgid "User Visibility"
+msgstr "Hiển thị người dùng"
+
+#: framework/features/header/items/account/options.php:1778
+msgid "Border Color"
+msgstr "Màu viền"
+
+#: framework/features/header/header-options.php:209
+#: framework/features/header/header-options.php:236
+#: framework/features/header/header-options.php:251
+#: framework/features/header/header-options.php:266
+#: framework/features/header/items/account/options.php:1733
+msgid "Background"
+msgstr "Nền"
+
+#: framework/features/header/items/account/options.php:1732
+msgid "Border"
+msgstr "Viền"
+
+#: framework/features/header/items/account/options.php:1724
+msgid "Close Button Type"
+msgstr "Loại nút thoát"
+
+#: framework/features/account-auth.php:137
+msgid "Please enter your username or email address. You will receive an email message with instructions on how to reset your password."
+msgstr "Vui lòng điền username hoặc địa chỉ email của bạn. Bạn sẽ nhận được một email với hướng dẫn khôi phục mật khẩu."
+
+#: framework/features/account-auth.php:136
+msgid "Lost Password"
+msgstr "Quên mật khẩu"
+
+#: framework/features/account-auth.php:87
+msgid "<strong>Error</strong>: %s"
+msgstr "<strong>Lỗi</strong>: %s"
+
+#: framework/extensions/product-reviews/metabox.php:126
+msgid "Sponsored Attribute"
+msgstr "Thuộc tính được tài trợ"
+
+#: framework/features/conditions/rules/cpt.php:40
+msgid "%s %s Taxonomy"
+msgstr "%s %s Taxonomy"
+
+#: framework/extensions/product-reviews/metabox.php:83
+msgid "Product Brand"
+msgstr "Thương hiệu sản phẩm"
+
+#: framework/extensions/product-reviews/metabox.php:76
+msgid "Product SKU"
+msgstr "Mã sản phẩm"
+
+#: framework/extensions/product-reviews/metabox.php:69
+msgid "Product Price"
+msgstr "Giá sản phẩm"
+
+#: framework/extensions/product-reviews/metabox.php:18
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:422
+msgid "Container Border Radius"
+msgstr "Bo viền vùng chứa"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:389
+msgid "Container Shadow"
+msgstr "Bóng vùng chứa"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:373
+msgid "Container Border"
+msgstr "Đường bo viền vùng chứa"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:175
+msgid "Title Color"
+msgstr "Màu chữ tiêu đề"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:19
+#: framework/features/blocks/about-me/options.php:67
+msgid "You can add here some arbitrary HTML code."
+msgstr "Bạn có thể thêm vào đây một số code HTML tùy ý."
+
+#: framework/extensions/trending/customizer.php:124
+msgid "Module Title Tag"
+msgstr "Thẻ tiêu đề mô-đun"
+
+#: framework/extensions/product-reviews/metabox.php:170
+msgid "Short Description"
+msgstr "Mô tả ngắn"
+
+#: framework/extensions/product-reviews/metabox.php:38
+msgid "More info about review entity and how to choose the right one can be found %shere%s."
+msgstr "Có thể tìm thấy thêm thông tin về đối tượng đánh giá và cách chọn đối tượng phù hợp %shere%s."
+
+#: framework/extensions/product-reviews/metabox.php:32
+msgid "Organization"
+msgstr "Tổ chức"
+
+#: framework/extensions/product-reviews/metabox.php:31
+msgid "Music Recording"
+msgstr "Ghi âm nhạc"
+
+#: framework/extensions/product-reviews/metabox.php:30
+msgid "Music Playlist"
+msgstr "Danh sách phát nhạc"
+
+#: framework/extensions/product-reviews/metabox.php:29
+msgid "Movie"
+msgstr "Phim"
+
+#: framework/extensions/product-reviews/metabox.php:28
+msgid "Media Object"
+msgstr "Đối tượng Media"
+
+#: framework/extensions/product-reviews/metabox.php:27
+msgid "Local Business"
+msgstr "Địa điểm kinh doanh"
+
+#: framework/extensions/product-reviews/metabox.php:25
+msgid "Game"
+msgstr "Trò chơi"
+
+#: framework/extensions/product-reviews/metabox.php:23
+msgid "Episode"
+msgstr "Episode"
+
+#: framework/extensions/product-reviews/metabox.php:22
+msgid "Creative Work Series"
+msgstr "Chuỗi công việc sáng tạo"
+
+#: framework/extensions/product-reviews/metabox.php:21
+msgid "Creative Work Season"
+msgstr "Mùa làm việc sáng tạo"
+
+#: framework/extensions/product-reviews/metabox.php:19
+msgid "Book"
+msgstr "Book"
+
+#: framework/extensions/product-reviews/metabox.php:10
+msgid "Review Entity"
+msgstr "Review Entity"
+
+#: framework/extensions/product-reviews/extension.php:480
+msgid "Overll Score Background"
+msgstr "Overll Score Background"
+
+#: framework/extensions/product-reviews/extension.php:458
+msgid "Overll Score Text"
+msgstr "Overll Score Text"
+
+#: framework/extensions/product-reviews/extension.php:280
+#: framework/extensions/product-reviews/extension.php:450
+msgid "Inactive"
+msgstr "Không hoạt động"
+
+#: framework/extensions/product-reviews/extension.php:274
+#: framework/extensions/product-reviews/extension.php:444
+#: framework/extensions/product-reviews/extension.php:472
+#: framework/extensions/product-reviews/extension.php:493
+#: framework/features/header/items/account/options.php:1985
+#: static/bundle/dashboard.js:7
+#: static/js/dashboard/screens/Extensions/Sidebar.js:120
+msgid "Active"
+msgstr "Kích hoạt"
+
+#: framework/extensions/product-reviews/extension.php:256
+#: framework/extensions/product-reviews/extension.php:427
+msgid "Star Rating Color"
+msgstr "Màu xếp hạng sao"
+
+#: framework/extensions/product-reviews/extension.php:408
+msgid "Buy Now Button"
+msgstr "Nút Mua ngay"
+
+#: framework/extensions/product-reviews/extension.php:387
+msgid "Scores Box Width"
+msgstr "Chiều rộng hộp Scores"
+
+#: framework/extensions/product-reviews/extension.php:376
+msgid "Review Summary"
+msgstr "Tóm tắt đánh giá"
+
+#: framework/features/blocks/about-me/options.php:163
+#: framework/features/blocks/contact-info/options.php:493
+#: framework/features/blocks/share-box/options.php:98
+#: framework/features/blocks/socials/options.php:69
+msgid "Set links to nofollow"
+msgstr "Đặt liên kết thành nofollow"
+
+#: framework/extensions/product-reviews/extension.php:397
+msgid "Read More Button"
+msgstr "Nút Đọc Tiếp"
+
+#: framework/features/opengraph-meta-data.php:17
+msgid "Enable the OpenGraph rich meta data features for your website."
+msgstr "Bật các tính năng siêu dữ liệu phong phú của OpenGraph cho trang web của bạn."
+
+#: framework/features/google-analytics.php:105
+msgid "Link your Google Analytics 4 tracking ID. More info and instructions can be found %shere%s."
+msgstr "Liên kết ID theo dõi Google Analytics 4 của bạn. Có thể tìm thấy thêm thông tin và hướng dẫn %shere%s."
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/extensions/trending/config.php:6
+msgid "Highlight your most popular posts or products based on the number of comments or reviews they have gotten in the specified period of time."
+msgstr "Làm nổi bật các bài viết hoặc sản phẩm phổ biến nhất của bạn dựa trên số lượng nhận xét hoặc đánh giá mà họ nhận được trong khoảng thời gian cụ thể."
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/extensions/product-reviews/config.php:6
+msgid "This extension lets you easily create an affiliate marketing type of website by giving you options to create a personalized product review and use your affiliate links to direct your readers to the purchase page."
+msgstr "Tiện ích mở rộng này cho phép bạn dễ dàng tạo loại trang web affiliate marketing bằng cách cung cấp cho bạn các tùy chọn để tạo đánh giá sản phẩm được cá nhân hóa và sử dụng các liên kết liên kết của bạn để hướng người đọc đến trang mua hàng."
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/extensions/newsletter-subscribe/config.php:6
+msgid "Easily capture new leads for your newsletter with the help of a widget, shortcode or even a block inserted on your pages or posts."
+msgstr "Dễ dàng nắm bắt các khách hàng tiềm năng mới với newsletter của bạn với sự trợ giúp của widget, shortcode hoặc thậm chí một Block được chèn trên các trang hoặc bài viết của bạn."
+
+#. translators: This is a brand name. Preferably to not be translated
+#: framework/extensions/cookies-consent/config.php:6
+msgid "Display a cookie acceptance box in order to comply with the privacy regulations in your country."
+msgstr "Hiển thị hộp chấp nhận cookie để tuân thủ các quy định về quyền riêng tư ở quốc gia của bạn."
+
+#: framework/extensions/newsletter-subscribe/customizer.php:296
+#: framework/features/header/items/account/options.php:1631
+#: framework/extensions/newsletter-subscribe/admin-static/bundle/newsletter-block.js:1
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:190
+#: static/bundle/blocks/blocks.js:7 static/js/editor/blocks/search/Edit.js:250
+msgid "Input Background Color"
+msgstr "Nhập Màu nền"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:259
+#: framework/features/header/items/account/options.php:1588
+#: framework/extensions/newsletter-subscribe/admin-static/bundle/newsletter-block.js:1
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:159
+#: static/bundle/blocks/blocks.js:7 static/js/editor/blocks/search/Edit.js:223
+msgid "Input Border Color"
+msgstr "Nhập Màu đường viền"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:251
+#: framework/extensions/newsletter-subscribe/customizer.php:282
+#: framework/extensions/newsletter-subscribe/customizer.php:318
+#: framework/features/header/items/account/options.php:1579
+#: framework/features/header/items/account/options.php:1617
+#: framework/features/header/items/account/options.php:1663
+#: framework/extensions/newsletter-subscribe/admin-static/bundle/newsletter-block.js:1
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:146
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:177
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:210
+#: static/bundle/blocks/blocks.js:7 static/js/editor/blocks/search/Edit.js:213
+#: static/js/editor/blocks/search/Edit.js:240
+#: static/js/editor/blocks/search/Edit.js:269
+msgid "Focus"
+msgstr "Tiêu điểm"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:227
+#: framework/features/header/items/account/options.php:1553
+#: framework/extensions/newsletter-subscribe/admin-static/bundle/newsletter-block.js:1
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:128
+#: static/bundle/blocks/blocks.js:7 static/js/editor/blocks/search/Edit.js:196
+msgid "Input Font Color"
+msgstr "Nhập màu Font"
+
+#: framework/features/conditions/rules/bbPress.php:15
+#: framework/features/header/items/account/options.php:24
+#: framework/features/header/items/account/options.php:87
+msgid "Profile"
+msgstr "Hồ sơ"
+
+#: framework/features/conditions/rules/bbPress.php:11
+#: framework/features/header/items/account/options.php:231
+msgid "bbPress"
+msgstr "bbPress"
+
+#: framework/extensions/cookies-consent/customizer.php:119
+msgid "I accept the %sPrivacy Policy%s*"
+msgstr "Tôi chấp nhận %sChính sách bảo mật%s*"
+
+#: framework/extensions/trending/customizer.php:116
+msgid "Module Title"
+msgstr "Tiêu đề Mô-đun"
+
+#: framework/features/header/items/account/options.php:1677
+msgid "Modal Background"
+msgstr "Nền Modal "
+
+#: framework/features/header/items/account/options.php:1705
+msgid "Modal Shadow"
+msgstr "Bóng Modal"
+
+#: framework/features/header/items/account/options.php:1514
+msgid "Modal Options"
+msgstr "Tuỳ chọn Modal"
+
+#: framework/features/blocks/about-me/options.php:156
+#: framework/features/blocks/socials/options.php:62
+msgid "Open links in new tab"
+msgstr "Mở liên kết trong tab mới"
+
+#: framework/extensions/trending/customizer.php:386
+msgid "Add one or more conditions to display the trending block."
+msgstr "Thêm một hoặc nhiều điều kiện để hiển thị Block xu hướng."
+
+#: framework/extensions/trending/customizer.php:385
+msgid "Trending Block Display Conditions"
+msgstr "Điều kiện hiển thị Block xu hướng"
+
+#: framework/extensions/trending/customizer.php:368
+msgid "After Header"
+msgstr "Sau Header"
+
+#: framework/extensions/trending/customizer.php:363
+msgid "After Footer"
+msgstr "Sau chân trang"
+
+#: framework/extensions/trending/customizer.php:358
+msgid "Before Footer"
+msgstr "Trước chân trang"
+
+#: framework/extensions/trending/customizer.php:350
+msgid "Display Location"
+msgstr "Hiển thị vị trí"
+
+#: framework/extensions/product-reviews/metabox.php:120
+msgid "Open Link In New Tab"
+msgstr "Mở liên kết trong tab mới"
+
+#: framework/features/header/items/account/options.php:169
+#: framework/features/header/items/account/options.php:284
+#: framework/features/header/items/account/options.php:285
+msgid "WooCommerce Account"
+msgstr "Tài khoản WooCommerce"
+
+#: framework/features/conditions-manager.php:299
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: framework/features/conditions/rules/localization.php:15
+msgid "Current Language"
+msgstr "Ngôn ngữ hiện tại"
+
+#: framework/features/conditions/rules/localization.php:11
+msgid "Languages"
+msgstr "Ngôn ngữ"
+
+#: framework/features/account-auth.php:274
+msgid "Register For This Site"
+msgstr "Đăng ký trên web này"
+
+#: framework/features/account-auth.php:273
+msgid "Registration Form"
+msgstr "Form đăng ký"
+
+#: framework/features/account-auth.php:119
+#: framework/features/account-auth.php:267
+msgid "Check your email"
+msgstr "Kiểm tra email của bạn"
+
+#: framework/features/header/items/account/options.php:2059
+msgid "Element Visibility"
+msgstr "Hiển thị phần tử"
+
+#: framework/features/header/items/account/options.php:1135
+#: framework/features/header/items/account/options.php:1174
+#: framework/features/header/items/account/options.php:1218
+#: framework/features/header/items/account/options.php:1260
+msgid "Label Color"
+msgstr "Màu nhãn"
+
+#: framework/features/header/items/account/options.php:1125
+msgid "Label Font"
+msgstr "Font nhãn"
+
+#: framework/features/header/items/account/options.php:570
+msgid "Label Type"
+msgstr "Loại nhãn"
+
+#: framework/features/header/items/account/options.php:563
+#: framework/features/header/items/account/options.php:1035
+msgid "Bottom"
+msgstr "Bên dưới"
+
+#: framework/features/header/items/account/options.php:554
+#: framework/features/header/items/account/options.php:1017
+msgid "Label Position"
+msgstr "Vị trí nhãn"
+
+#: framework/features/header/items/account/options.php:340
+#: framework/features/header/items/account/options.php:739
+msgid "Account Image"
+msgstr "Ảnh tài khoản"
+
+#: framework/features/header/items/account/options.php:1327
+#: framework/features/header/items/account/options.php:1366
+#: framework/features/header/items/account/options.php:1409
+#: framework/features/header/items/account/options.php:1450
+#: framework/features/header/items/account/options.php:1738
+#: static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/share-box/Edit.js:81
+#: static/js/editor/blocks/socials/Edit.js:81
+msgid "Icon Color"
+msgstr "Màu Icon"
+
+#: framework/features/header/items/account/options.php:587
+#: framework/features/header/items/account/options.php:1045
+msgid "Label Text"
+msgstr "Nội dung nhãn"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:74
+msgid "Container Style"
+msgstr "Loại vùng chứa"
+
+#: framework/extensions/product-reviews/extension.php:554
+msgid "Search Product Review"
+msgstr "Tìm kiếm đánh giá sản phẩm"
+
+#: framework/extensions/product-reviews/extension.php:553
+msgid "Update Product Review"
+msgstr "Cập nhật đánh giá sản phẩm"
+
+#: framework/extensions/product-reviews/extension.php:552
+msgid "Edit Product Review"
+msgstr "Chỉnh sửa đánh giá sản phẩm"
+
+#: framework/extensions/product-reviews/extension.php:551
+msgid "Add New Review"
+msgstr "Thêm đánh giá mới"
+
+#: framework/extensions/product-reviews/extension.php:550
+msgid "Add New Product Review"
+msgstr "Thêm đánh giá sản phẩm mới"
+
+#: framework/extensions/product-reviews/extension.php:549
+msgid "View Product Review"
+msgstr "Xem đánh giá sản phẩm"
+
+#: framework/extensions/product-reviews/extension.php:548
+msgid "All Reviews"
+msgstr "Tất cả đánh giá"
+
+#: framework/extensions/product-reviews/extension.php:547
+msgid "Parent Product Review"
+msgstr "Đánh giá sản phẩm gốc"
+
+#: framework/extensions/product-reviews/extension.php:545
+msgid "Product Review"
+msgstr "Đánh giá sản phẩm"
+
+#: framework/extensions/product-reviews/extension.php:540
+#: framework/extensions/product-reviews/extension.php:541
+#: framework/extensions/product-reviews/extension.php:544
+#: framework/extensions/product-reviews/extension.php:546
+msgid "Product Reviews"
+msgstr "Đánh giá sản phẩm"
+
+#: framework/features/header/items/account/options.php:279
+msgid "Modal"
+msgstr "Modal"
+
+#: framework/features/header/items/account/options.php:562
+#: framework/features/header/items/account/options.php:1031
+msgid "Right"
+msgstr "Bên phải"
+
+#: framework/features/header/items/account/options.php:561
+#: framework/features/header/items/account/options.php:1027
+msgid "Left"
+msgstr "Bên trái"
+
+#: framework/features/header/items/account/options.php:497
+#: framework/features/header/items/account/options.php:871
+#: framework/features/header/items/account/options.php:959
+msgid "Type 6"
+msgstr "Loại 6"
+
+#: framework/features/header/items/account/options.php:487
+#: framework/features/header/items/account/options.php:861
+#: framework/features/header/items/account/options.php:949
+msgid "Type 5"
+msgstr "Loại 5"
+
+#: framework/features/header/items/account/options.php:477
+#: framework/features/header/items/account/options.php:851
+#: framework/features/header/items/account/options.php:939
+msgid "Type 4"
+msgstr "Loại 4"
+
+#: framework/features/header/items/account/options.php:467
+#: framework/features/header/items/account/options.php:841
+#: framework/features/header/items/account/options.php:929
+msgid "Type 3"
+msgstr "Loại 3"
+
+#. translators: placeholder here means the actual URL.
+#: framework/features/header/items/account/options.php:155
+msgid "Manage your menus in the %sMenus screen%s."
+msgstr "Quản lý các mục menu của bạn trong %sMàn hình Menu%s."
+
+#: framework/features/header/items/account/options.php:151
+msgid "Select menu..."
+msgstr "Chọn menu..."
+
+#: framework/features/header/items/account/options.php:145
+msgid "Select Menu"
+msgstr "Chọn menu"
+
+#: framework/features/header/items/account/options.php:7
+#: framework/features/header/items/account/options.php:36
+#: framework/features/header/items/account/options.php:117
+#: framework/features/header/items/account/options.php:280
+#: framework/features/header/items/account/views/login.php:396
+msgid "Custom Link"
+msgstr "Liên kết tùy chọn"
+
+#: framework/features/header/items/account/options.php:611
+#: framework/features/header/items/account/options.php:1059
+msgid "Account Action"
+msgstr "Hành động tài khoản"
+
+#: framework/features/header/items/account/options.php:324
+msgid "Logged Out Options"
+msgstr "Tùy chọn đăng xuất"
+
+#: framework/features/header/items/account/options.php:319
+msgid "Logged In Options"
+msgstr "Tùy chọn đăng nhập"
+
+#: framework/features/header/items/account/options.php:295
+msgid "Customizing: Logged in State"
+msgstr "Tùy chỉnh: Đã đăng nhập ở trạng thái"
+
+#: framework/extensions/product-reviews/metabox.php:225
+msgid "Product specs"
+msgstr "Thông số kỹ thuật sản phẩm"
+
+#: framework/extensions/product-reviews/metabox.php:185
+msgid "Scores"
+msgstr "Điểm"
+
+#: framework/extensions/product-reviews/metabox.php:148
+msgid "Read More Button Label"
+msgstr "Nhãn nút Đọc thêm "
+
+#: framework/extensions/product-reviews/metabox.php:114
+msgid "Affiliate Link"
+msgstr "Liên kết Affiliate"
+
+#: framework/extensions/product-reviews/metabox.php:107
+msgid "Affiliate Button Label"
+msgstr "Nhãn Nút Affiliate"
+
+#: framework/extensions/product-reviews/metabox.php:96
+msgid "Gallery"
+msgstr "Gallery"
+
+#. Translators: %s is the theme name.
+#: framework/dashboard.php:352 framework/dashboard.php:353
+#: framework/extensions/product-reviews/extension.php:619
+msgid "Blocksy"
+msgstr "Blocksy"
+
+#. Translators: %s is the theme name.
+#: framework/extensions/product-reviews/extension.php:618
+msgid "%s Settings"
+msgstr "%s Cài đặt"
+
+#: framework/extensions/product-reviews/extension.php:599
+msgid "New Category Name"
+msgstr "Tên danh mục mới"
+
+#: framework/extensions/product-reviews/extension.php:598
+msgid "Add New Category"
+msgstr "Thêm chuyên mục mới"
+
+#: framework/extensions/product-reviews/extension.php:597
+msgid "Update Category"
+msgstr "Cập nhật chuyên mục"
+
+#: framework/extensions/product-reviews/extension.php:596
+msgid "Edit Category"
+msgstr "Chỉnh sửa danh mục"
+
+#: framework/extensions/product-reviews/extension.php:595
+msgid "Parent Category:"
+msgstr "Chuyên mục cha:"
+
+#: framework/extensions/product-reviews/extension.php:594
+msgid "Parent Category"
+msgstr "Chuyên mục cha"
+
+#: framework/extensions/product-reviews/extension.php:593
+#: static/bundle/dashboard.js:7
+#: static/js/dashboard/screens/DemoInstall/filters/DemoListFilters.js:60
+#: static/js/dashboard/screens/DemoInstall/filters/DemoListFilters.js:65
+#: static/js/dashboard/screens/DemoInstall/filters/DemoListFilters.js:88
+msgid "All Categories"
+msgstr "Tất cả Chuyên mục"
+
+#: framework/extensions/product-reviews/extension.php:592
+msgid "Search Category"
+msgstr "Tìm kiếm chuyên mục"
+
+#: framework/extensions/product-reviews/extension.php:590
+#: framework/extensions/product-reviews/extension.php:600
+msgid "Categories"
+msgstr "Chuyên mục"
+
+#: framework/extensions/product-reviews/extension.php:556
+msgid "Not found in Trash"
+msgstr "Không tìm thấy trong Thùng rác"
+
+#: framework/extensions/product-reviews/extension.php:555
+msgid "Not Found"
+msgstr "Không tìm thấy"
+
+#: framework/extensions/product-reviews/metabox.php:270
+#: framework/extensions/product-reviews/views/single-top.php:285
+msgid "Cons"
+msgstr "Nhược điểm"
+
+#: framework/extensions/product-reviews/metabox.php:250
+#: framework/extensions/product-reviews/views/single-top.php:262
+msgid "Pros"
+msgstr "Ưu điểm"
+
+#: framework/extensions/product-reviews/views/single-top.php:238
+msgid "Specs"
+msgstr "Thông số kỹ thuật"
+
+#: framework/extensions/product-reviews/metabox.php:150
+#: framework/extensions/product-reviews/views/single-top.php:162
+msgid "Read More"
+msgstr "Đọc tiếp"
+
+#: framework/extensions/product-reviews/metabox.php:109
+#: framework/extensions/product-reviews/views/single-top.php:156
+msgid "Buy Now"
+msgstr "Mua ngay"
+
+#: framework/extensions/product-reviews/extension.php:318
+#: framework/extensions/product-reviews/views/single-top.php:139
+msgid "Overall Score"
+msgstr "Tổng điểm"
+
+#: framework/extensions/product-reviews/helpers.php:30
+#: framework/extensions/product-reviews/metabox.php:179
+#: static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/dynamic-data/hooks/use-dynamic-data-descriptor.js:131
+msgid "Rating"
+msgstr "Xếp hạng"
+
+#: framework/theme-integration.php:233
+msgid "TikTok"
+msgstr "TikTok"
+
+#: framework/features/blocks/share-box/options.php:61
+#: framework/theme-integration.php:232
+msgid "Odnoklassniki"
+msgstr "Odnoklassniki"
+
+#: framework/features/blocks/share-box/options.php:55
+#: framework/theme-integration.php:231
+msgid "VKontakte"
+msgstr "VKontakte"
+
+#: framework/theme-integration.php:230
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: framework/theme-integration.php:229
+msgid "YouTube"
+msgstr "YouTube"
+
+#: framework/theme-integration.php:227
+msgid "GitHub"
+msgstr "GitHub"
+
+#: framework/theme-integration.php:226
+msgid "WordPress"
+msgstr "WordPress"
+
+#: framework/features/blocks/share-box/options.php:31
+#: framework/theme-integration.php:225
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: framework/features/header/header-options.php:79
+msgid "Auto Hide/Show"
+msgstr "Tự động Ẩn/Hiện"
+
+#: framework/features/header/items/account/options.php:520
+#: framework/features/header/items/account/options.php:983
+msgid "Label Visibility"
+msgstr "Hiển thị nhãn"
+
+#: framework/features/conditions/rules/specific.php:25
+msgid "Post with Taxonomy ID"
+msgstr "Đăng với ID Taxonomy"
+
+#: framework/features/conditions-manager.php:234
+#: static/bundle/blocks/blocks.js:7 static/bundle/options.js:15
+#: static/js/editor/blocks/query/edit/PostsInspectorControls.js:291
+#: static/js/options/ConditionsManager/SingleCondition.js:92
+msgid "Exclude"
+msgstr "Loại trừ "
+
+#: framework/features/conditions-manager.php:234
+#: static/bundle/blocks/blocks.js:7 static/bundle/options.js:15
+#: static/js/editor/blocks/query/edit/PostsInspectorControls.js:283
+#: static/js/options/ConditionsManager/SingleCondition.js:91
+msgid "Include"
+msgstr "Bao gồm"
+
+#. translators: %s: WordPress version
+#: blocksy-companion.php:122
+msgid "Blocksy requires WordPress version %s+. Because you are using an earlier version, the plugin is currently NOT RUNNING."
+msgstr "Blocksy yêu cầu phiên bản WordPress %s+. Bởi vì bạn đang sử dụng phiên bản cũ hơn, plugin hiện KHÔNG CHẠY."
+
+#. translators: %s: PHP version
+#: blocksy-companion.php:110
+msgid "Blocksy requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr "Blocksy yêu cầu phiên bản PHP %s+, plugin hiện KHÔNG CHẠY."
+
+#: framework/features/blocks/contact-info/options.php:429
+msgid "Website:"
+msgstr "Trang web:"
+
+#: framework/features/blocks/contact-info/options.php:422
+msgid "Website"
+msgstr "Trang web"
+
+#: framework/features/blocks/contact-info/options.php:368
+msgid "Email:"
+msgstr "Email:"
+
+#: framework/features/blocks/contact-info/options.php:307
+msgid "Fax:"
+msgstr "Fax:"
+
+#: framework/features/blocks/contact-info/options.php:300
+msgid "Fax"
+msgstr "Fax"
+
+#: framework/features/blocks/contact-info/options.php:246
+msgid "Opening hours"
+msgstr "Giờ mở cửa"
+
+#: framework/features/blocks/contact-info/options.php:239
+msgid "Work Hours"
+msgstr "Giờ làm việc"
+
+#: framework/features/blocks/contact-info/options.php:117
+msgid "Phone"
+msgstr "Điện thoại"
+
+#: framework/features/blocks/contact-info/options.php:74
+#: framework/features/blocks/contact-info/options.php:137
+#: framework/features/blocks/contact-info/options.php:198
+#: framework/features/blocks/contact-info/options.php:259
+#: framework/features/blocks/contact-info/options.php:320
+#: framework/features/blocks/contact-info/options.php:381
+#: framework/features/blocks/contact-info/options.php:442
+msgid "Link (optional)"
+msgstr "Liên kết (tùy chọn)"
+
+#: framework/features/blocks/contact-info/options.php:55
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: framework/features/blocks/contact-info/options.php:47
+#: framework/features/blocks/contact-info/options.php:185
+#: framework/features/blocks/contact-info/view.php:31
+msgid "Mobile:"
+msgstr "Di động"
+
+#: framework/features/blocks/contact-info/options.php:39
+#: framework/features/blocks/contact-info/options.php:124
+#: framework/features/blocks/contact-info/view.php:23
+msgid "Phone:"
+msgstr "Điện thoại:"
+
+#: framework/features/blocks/contact-info/options.php:31
+#: framework/features/blocks/contact-info/options.php:61
+#: framework/features/blocks/contact-info/view.php:15
+msgid "Address:"
+msgstr "Địa chỉ:"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:13
+#: framework/features/blocks/contact-info/options.php:19
+#: framework/features/header/items/account/options.php:577
+#: static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/breadcrumbs/Edit.js:54
+#: static/js/editor/blocks/contact-info/Edit.js:107
+msgid "Text"
+msgstr "Văn bản"
+
+#: framework/features/blocks/contact-info/options.php:15
+#: static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/contact-info/index.js:51
+#: static/js/editor/blocks/contact-info/index.js:53
+msgid "Contact Info"
+msgstr "Thông tin liên hệ"
+
+#: framework/extensions/trending/customizer.php:266
+msgid "Separate posts ID by comma. How to find the %spost ID%s."
+msgstr "Phân tách ID bài viết bằng dấu phẩy. Cách tìm %sID bài viết%s."
+
+#: framework/extensions/trending/customizer.php:262
+msgid "Posts ID"
+msgstr "ID bài viết"
+
+#: framework/extensions/trending/customizer.php:239
+msgid "Custom Query"
+msgstr "Query Tuỳ chỉnh"
+
+#: framework/extensions/trending/customizer.php:238
+#: static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/query/edit/layers/useTaxonomiesLayers.js:186
+#: static/js/editor/blocks/query/edit/layers/useTaxonomiesLayers.js:229
+msgid "Taxonomies"
+msgstr "Phân loại"
+
+#: framework/extensions/trending/customizer.php:42
+msgid "All taxonomies"
+msgstr "Tất cả phân loại"
+
+#: framework/extensions/trending/customizer.php:41
+#: static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/dynamic-data/components/InspectorControls.js:66
+#: static/js/editor/blocks/tax-query/Edit.js:156
+msgid "Taxonomy"
+msgstr "Taxonomy"
+
+#: framework/extensions/trending/customizer.php:36
+msgid "All categories"
+msgstr "Tất cả danh mục"
+
+#: framework/extensions/product-reviews/extension.php:591
+#: framework/extensions/trending/customizer.php:35
+msgid "Category"
+msgstr "Danh mục"
+
+#: framework/features/blocks/about-me/view.php:197
+msgid "View Profile"
+msgstr "Xem hồ sơ"
+
+#: framework/features/blocks/about-me/options.php:119
+#: framework/features/blocks/socials/options.php:19
+msgid "Social Channels"
+msgstr "Kênh mạng xã hội"
+
+#: framework/features/blocks/about-me/options.php:104
+msgid "Alignment"
+msgstr "Căn chỉnh"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:26
+#: framework/features/blocks/about-me/options.php:64
+#: framework/features/blocks/dynamic-data/options.php:143
+msgid "Description"
+msgstr "Mô tả"
+
+#: framework/features/blocks/about-me/options.php:37
+msgid "User"
+msgstr "Người dùng"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:82
+msgid "Boxed"
+msgstr "Đóng hộp"
+
+#: framework/features/header/items/account/options.php:726
+#: framework/features/header/items/account/options.php:1731
+msgid "Simple"
+msgstr "Đơn giản"
+
+#: framework/features/blocks/about-me/options.php:16
+msgid "About me"
+msgstr "Giới thiệu"
+
+#: framework/features/blocks/about-me/options.php:219
+#: framework/features/blocks/contact-info/options.php:547
+#: framework/features/blocks/share-box/options.php:158
+#: framework/features/blocks/socials/options.php:129
+msgid "Outline"
+msgstr "Dàn ý"
+
+#: framework/features/blocks/about-me/options.php:220
+#: framework/features/blocks/contact-info/options.php:548
+#: framework/features/blocks/share-box/options.php:159
+#: framework/features/blocks/socials/options.php:130
+msgid "Solid"
+msgstr "Đặc"
+
+#: framework/features/blocks/about-me/options.php:215
+#: framework/features/blocks/contact-info/options.php:541
+#: framework/features/blocks/share-box/options.php:152
+#: framework/features/blocks/socials/options.php:123
+msgid "Shape Fill Type"
+msgstr "Loại tô hình dạng"
+
+#: framework/features/blocks/about-me/options.php:98
+#: framework/features/blocks/about-me/options.php:206
+#: framework/features/blocks/contact-info/options.php:532
+#: framework/features/blocks/share-box/options.php:143
+#: framework/features/blocks/socials/options.php:114
+#: static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/dynamic-data/components/Dimensions.js:86
+msgid "Square"
+msgstr "Vuông"
+
+#: framework/features/blocks/about-me/options.php:97
+#: framework/features/blocks/about-me/options.php:205
+#: framework/features/blocks/contact-info/options.php:531
+#: framework/features/blocks/share-box/options.php:142
+#: framework/features/blocks/socials/options.php:113
+msgid "Rounded"
+msgstr "Làm tròn"
+
+#: framework/features/blocks/about-me/options.php:204
+#: framework/features/blocks/contact-info/options.php:530
+#: framework/features/blocks/share-box/options.php:141
+#: framework/features/blocks/socials/options.php:112
+#: framework/features/header/items/account/options.php:22
+#: framework/features/header/items/account/options.php:268
+#: framework/features/header/items/account/options.php:348
+#: framework/features/header/items/account/options.php:746
+#: static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/dynamic-data/components/InspectorControls.js:170
+msgid "None"
+msgstr "Không dùng"
+
+#: framework/features/blocks/about-me/options.php:200
+#: framework/features/blocks/contact-info/options.php:523
+#: framework/features/blocks/share-box/options.php:135
+#: framework/features/blocks/socials/options.php:106
+msgid "Icons Shape Type"
+msgstr "Kiểu hình dạng icon"
+
+#: framework/features/blocks/about-me/options.php:87
+msgid "Large"
+msgstr "Lớn"
+
+#: framework/features/blocks/about-me/options.php:86
+#: framework/theme-integration.php:228
+msgid "Medium"
+msgstr "Trung bình"
+
+#: framework/features/blocks/about-me/options.php:85
+msgid "Small"
+msgstr "Nhỏ"
+
+#: framework/features/blocks/about-me/options.php:168
+#: framework/features/blocks/contact-info/options.php:504
+#: framework/features/blocks/share-box/options.php:103
+#: framework/features/blocks/socials/options.php:74
+msgid "Icons Size"
+msgstr "Kích thước Icons"
+
+#: framework/features/blocks/about-me/options.php:124
+msgid "You can configure social URLs in %s."
+msgstr "Bạn có thể cấu hình URL xã hội trong %s."
+
+#: framework/features/blocks/socials/options.php:15
+msgid "Social Icons"
+msgstr "Icons mạng xã hội"
+
+#: framework/features/blocks/contact-info/options.php:486
+msgid "Open link in new tab"
+msgstr "Mở liên kết trong tab mới"
+
+#: framework/features/blocks/about-me/options.php:49
+#: static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/dynamic-data/components/InspectorControls.js:96
+msgid "Image"
+msgstr "Hình ảnh"
+
+#: framework/extensions/trending/customizer.php:233
+msgid "Source"
+msgstr "Nguồn"
+
+#: framework/features/blocks/about-me/options.php:54
+msgid "Change Image"
+msgstr "Thay đổi ảnh"
+
+#: framework/features/blocks/about-me/options.php:53
+msgid "Select Image"
+msgstr "Chọn Ảnh"
+
+#: framework/helpers/exts.php:186
+msgid "Floating Cart"
+msgstr "Giỏ hàng nổi"
+
+#: framework/helpers/exts.php:194
+msgid "Quick View"
+msgstr "Xem Nhanh"
+
+#: framework/features/blocks/about-me/options.php:128
+msgid "Customizer"
+msgstr "Tuỳ chỉnh"
+
+#: framework/extensions/cookies-consent/customizer.php:123
+msgid "This text will appear under each comment form and subscribe form."
+msgstr "Văn bản này sẽ xuất hiện dưới mỗi form bình luận và form subscribe."
+
+#: framework/extensions/cookies-consent/helpers.php:55
+msgid "I accept the %sPrivacy Policy%s"
+msgstr "Tôi chấp nhận %sChính sách bảo mật%s"
+
+#: framework/extensions/cookies-consent/customizer.php:112
+msgid "Forms Cookies Content"
+msgstr "Nội dung Forms Cookies"
+
+#: framework/extensions/cookies-consent/customizer.php:98
+msgid "Maximum Width"
+msgstr "Chiều rộng tối đa"
+
+#: framework/extensions/cookies-consent/customizer.php:80
+#: framework/extensions/cookies-consent/helpers.php:10
+msgid "Accept"
+msgstr "Chấp nhận"
+
+#: framework/features/blocks/search/options.php:58
+msgid "Button Text"
+msgstr "Nút văn bản"
+
+#: framework/extensions/cookies-consent/customizer.php:64
+#: framework/extensions/cookies-consent/helpers.php:7
+msgid "We use cookies to ensure that we give you the best experience on our website."
+msgstr "Chúng tôi sử dụng cookie để đảm bảo sẽ mang đến cho bạn trải nghiệm tốt nhất trên trang web của chúng tôi."
+
+#: framework/extensions/cookies-consent/customizer.php:62
+#: framework/features/blocks/contact-info/options.php:67
+#: framework/features/blocks/contact-info/options.php:130
+#: framework/features/blocks/contact-info/options.php:191
+#: framework/features/blocks/contact-info/options.php:252
+#: framework/features/blocks/contact-info/options.php:313
+#: framework/features/blocks/contact-info/options.php:374
+#: framework/features/blocks/contact-info/options.php:435
+msgid "Content"
+msgstr "Nội dung"
+
+#: framework/extensions/cookies-consent/customizer.php:55
+msgid "Forever"
+msgstr "Vĩnh viễn"
+
+#: framework/extensions/cookies-consent/customizer.php:54
+msgid "One year"
+msgstr "Một năm"
+
+#: framework/extensions/cookies-consent/customizer.php:53
+msgid "Six months"
+msgstr "Sáu tháng"
+
+#: framework/extensions/cookies-consent/customizer.php:52
+msgid "Three months"
+msgstr "Ba tháng"
+
+#: framework/extensions/cookies-consent/customizer.php:51
+msgid "One month"
+msgstr "Một tháng"
+
+#: framework/extensions/cookies-consent/customizer.php:50
+msgid "One week"
+msgstr "Một tuần"
+
+#: framework/extensions/cookies-consent/customizer.php:49
+msgid "One day"
+msgstr "Một ngày"
+
+#: framework/extensions/cookies-consent/customizer.php:48
+msgid "One hour"
+msgstr "Một giờ"
+
+#: framework/extensions/cookies-consent/customizer.php:40
+msgid "Cookie period"
+msgstr "Cookie period"
+
+#: framework/extensions/cookies-consent/customizer.php:33
+#: framework/features/header/items/account/options.php:457
+#: framework/features/header/items/account/options.php:831
+#: framework/features/header/items/account/options.php:919
+msgid "Type 2"
+msgstr "Loại 2"
+
+#: framework/extensions/cookies-consent/customizer.php:28
+#: framework/features/header/items/account/options.php:447
+#: framework/features/header/items/account/options.php:821
+#: framework/features/header/items/account/options.php:909
+msgid "Type 1"
+msgstr "Loại 1"
+
+#: framework/features/header/items/account/options.php:2016
+msgid "Shadow"
+msgstr "Hiệu ứng đổ bóng"
+
+#: framework/extensions/cookies-consent/customizer.php:178
+#: framework/extensions/cookies-consent/customizer.php:234
+#: framework/extensions/cookies-consent/customizer.php:299
+#: framework/features/header/items/account/options.php:1829
+#: framework/features/header/items/account/options.php:1953
+msgid "Background Color"
+msgstr "Màu nền"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:328
+msgid "Button Color"
+msgstr "Màu nút"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:20
+#: framework/extensions/newsletter-subscribe/helpers.php:21
+#: framework/extensions/newsletter-subscribe/helpers.php:69
+msgid "Newsletter Updates"
+msgstr "Cập nhật bản tin"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:4
+msgid "Subscribe Form"
+msgstr "Form Subscribe"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:253
+#: framework/features/blocks/about-me/options.php:58
+#: framework/features/header/items/account/options.php:578
+#: static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/tax-query/edit/TermsInspectorControls.js:129
+msgid "Name"
+msgstr "Tên"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:143
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:21
+#: framework/extensions/newsletter-subscribe/customizer.php:139
+#: framework/extensions/newsletter-subscribe/extension.php:203
+#: framework/extensions/newsletter-subscribe/helpers.php:31
+#: framework/extensions/newsletter-subscribe/helpers.php:76
+msgid "Subscribe"
+msgstr "Subscribe"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:142
+#: framework/extensions/newsletter-subscribe/customizer.php:137
+msgid "Button Label"
+msgstr "Nhãn Nút"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:130
+#: framework/extensions/newsletter-subscribe/extension.php:209
+#: framework/extensions/newsletter-subscribe/helpers.php:41
+#: framework/extensions/newsletter-subscribe/helpers.php:82
+msgid "Your email"
+msgstr "Email của bạn"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:136
+#: framework/extensions/newsletter-subscribe/customizer.php:128
+msgid "Mail Label"
+msgstr "Nhãn Mail"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:122
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:147
+#: framework/extensions/newsletter-subscribe/customizer.php:119
+#: framework/extensions/newsletter-subscribe/extension.php:208
+#: framework/extensions/newsletter-subscribe/helpers.php:37
+#: framework/extensions/newsletter-subscribe/helpers.php:81
+msgid "Your name"
+msgstr "Tên của bạn"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:121
+#: framework/extensions/newsletter-subscribe/customizer.php:117
+msgid "Name Label"
+msgstr "Nhãn Tên"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:109
+#: framework/extensions/newsletter-subscribe/customizer.php:79
+msgid "Name Field"
+msgstr "Trường Tên"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:50
+#: framework/extensions/newsletter-subscribe/customizer.php:61
+#: framework/extensions/newsletter-subscribe/dashboard-static/bundle/main.js:15
+#: framework/extensions/newsletter-subscribe/dashboard-static/js/EditCredentials.js:204
+msgid "List ID"
+msgstr "ID danh sách"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:41
+#: framework/extensions/newsletter-subscribe/customizer.php:49
+#: framework/extensions/trending/customizer.php:173
+#: framework/features/blocks/about-me/options.php:27
+#: framework/features/blocks/about-me/options.php:194
+#: framework/features/blocks/contact-info/options.php:91
+#: framework/features/blocks/contact-info/options.php:154
+#: framework/features/blocks/contact-info/options.php:215
+#: framework/features/blocks/contact-info/options.php:276
+#: framework/features/blocks/contact-info/options.php:337
+#: framework/features/blocks/contact-info/options.php:398
+#: framework/features/blocks/contact-info/options.php:459
+#: framework/features/blocks/dynamic-data/options.php:64
+#: framework/features/blocks/share-box/options.php:129
+#: framework/features/blocks/socials/options.php:100
+#: framework/features/header/items/account/options.php:25
+#: framework/features/header/items/account/options.php:389
+#: framework/features/header/items/account/options.php:770
+#: static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/dynamic-data/utils.js:10
+msgid "Custom"
+msgstr "Tùy chỉnh"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:34
+#: framework/extensions/newsletter-subscribe/customizer.php:41
+msgid "List Source"
+msgstr "Nguồn danh sách"
+
+#: framework/extensions/newsletter-subscribe/helpers.php:72
+msgid "Enter your email address below to subscribe to our newsletter"
+msgstr "Nhập địa chỉ email của bạn dưới đây để Đăng ký nhận bản tin của chúng tôi"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:14
+#: framework/extensions/newsletter-subscribe/admin-static/bundle/newsletter-block.js:1
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/index.js:54
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/index.js:56
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:18
+#: framework/features/blocks/about-me/options.php:15
+#: framework/features/blocks/contact-info/options.php:14
+#: framework/features/blocks/contact-info/options.php:60
+#: framework/features/blocks/contact-info/options.php:123
+#: framework/features/blocks/contact-info/options.php:184
+#: framework/features/blocks/contact-info/options.php:245
+#: framework/features/blocks/contact-info/options.php:306
+#: framework/features/blocks/contact-info/options.php:367
+#: framework/features/blocks/contact-info/options.php:428
+#: framework/features/blocks/share-box/options.php:14
+#: framework/features/blocks/socials/options.php:14
+#: static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/dynamic-data/hooks/use-dynamic-data-descriptor.js:44
+#: static/js/editor/blocks/query/edit/PostsInspectorControls.js:125
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: framework/extensions/newsletter-subscribe/extension.php:155
+msgid "Disable Subscribe Form"
+msgstr "Tắt Subscribe Form"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:149
+msgid "Visibility"
+msgstr "Hiển thị"
+
+#: framework/extensions/trending/customizer.php:119
+#: framework/extensions/trending/helpers.php:220
+msgid "Trending now"
+msgstr "Đang là xu hướng"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:357
+#: framework/extensions/trending/customizer.php:532
+msgid "Container Background"
+msgstr "Nền vùng chứa"
+
+#: framework/extensions/cookies-consent/customizer.php:203
+#: framework/extensions/cookies-consent/customizer.php:270
+#: framework/features/header/items/account/options.php:1518
+#: framework/features/header/items/account/options.php:1902
+msgid "Font Color"
+msgstr "Mầu Font"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:161
+#: framework/extensions/trending/customizer.php:342
+#: framework/features/blocks/search/options.php:169
+#: framework/features/header/items/account/options.php:533
+#: framework/features/header/items/account/options.php:996
+#: framework/features/header/items/account/options.php:2069
+msgid "Tablet"
+msgstr "Tablet"
+
+#: framework/extensions/trending/customizer.php:329
+msgid "Container Visibility"
+msgstr "Hiển thị vùng chứa"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:408
+#: framework/extensions/trending/customizer.php:548
+msgid "Container Inner Spacing"
+msgstr "Khoảng cách trong vùng chứa"
+
+#: framework/extensions/trending/customizer.php:294
+msgid "Last Month"
+msgstr "Tháng trước"
+
+#: framework/extensions/trending/customizer.php:293
+msgid "Last 7 Days"
+msgstr "7 ngày qua"
+
+#: framework/extensions/trending/customizer.php:292
+msgid "Last 24 Hours"
+msgstr "24 giờ trước"
+
+#: framework/extensions/trending/customizer.php:291
+msgid "All Time"
+msgstr "Mọi lúc"
+
+#: framework/extensions/trending/customizer.php:282
+msgid "Trending From"
+msgstr "Đang là xu hướng"
+
+#: framework/extensions/trending/customizer.php:210
+#: framework/extensions/trending/customizer.php:224
+#: static/bundle/blocks/blocks.js:7 static/js/editor/blocks/query/Edit.js:169
+msgid "Post Type"
+msgstr "Loại bài viết"
+
+#: framework/extensions/trending/customizer.php:106
+msgid "Trending Posts"
+msgstr "Bài viết xu hướng"
+
+#: framework/extensions/trending/customizer.php:8
+#: framework/features/blocks/search/options.php:16
+msgid "Products"
+msgstr "Sản phẩm"
+
+#: framework/extensions/trending/customizer.php:374
+#: framework/features/header/header-options.php:163 static/bundle/options.js:15
+#: static/js/header/EditConditions.js:103
+msgid "Display Conditions"
+msgstr "Điều kiện hiển thị"
+
+#: framework/features/header/header-options.php:125
+msgid "Transparent Functionality"
+msgstr "Tính năng Trong suốt"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:162
+#: framework/extensions/trending/customizer.php:343
+#: framework/features/blocks/contact-info/options.php:178
+#: framework/features/blocks/search/options.php:170
+#: framework/features/header/header-options.php:110
+#: framework/features/header/header-options.php:192
+#: framework/features/header/items/account/options.php:534
+#: framework/features/header/items/account/options.php:997
+#: framework/features/header/items/account/options.php:2070
+msgid "Mobile"
+msgstr "Di động"
+
+#: framework/extensions/newsletter-subscribe/customizer.php:160
+#: framework/extensions/trending/customizer.php:341
+#: framework/features/blocks/search/options.php:168
+#: framework/features/header/header-options.php:108
+#: framework/features/header/header-options.php:190
+#: framework/features/header/items/account/options.php:532
+#: framework/features/header/items/account/options.php:995
+msgid "Desktop"
+msgstr "Máy tính"
+
+#: framework/features/header/header-options.php:97
+#: framework/features/header/header-options.php:179
+msgid "Enable on"
+msgstr "Bật trên"
+
+#: framework/features/header/header-options.php:78
+msgid "Fade"
+msgstr "Mờ dần"
+
+#: framework/features/header/header-options.php:77
+msgid "Slide Down"
+msgstr "Trượt xuống"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:40
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:81
+#: framework/extensions/newsletter-subscribe/customizer.php:48
+#: framework/extensions/product-reviews/metabox.php:17
+#: framework/extensions/trending/customizer.php:169
+#: framework/features/blocks/contact-info/options.php:90
+#: framework/features/blocks/contact-info/options.php:153
+#: framework/features/blocks/contact-info/options.php:214
+#: framework/features/blocks/contact-info/options.php:275
+#: framework/features/blocks/contact-info/options.php:336
+#: framework/features/blocks/contact-info/options.php:397
+#: framework/features/blocks/contact-info/options.php:458
+#: framework/features/header/header-options.php:76
+#: framework/features/header/items/account/options.php:385
+#: framework/features/header/items/account/options.php:766
+msgid "Default"
+msgstr "Mặc định"
+
+#: framework/features/header/header-options.php:62
+msgid "Only Bottom Row"
+msgstr "Chỉ hàng dưới cùng"
+
+#: framework/features/header/header-options.php:57
+msgid "Only Top Row"
+msgstr "Chỉ hàng trên cùng"
+
+#: framework/features/header/header-options.php:52
+msgid "Main & Bottom Row"
+msgstr "Hàng chính & hàng dưới cùng"
+
+#: framework/features/header/header-options.php:47
+msgid "All Rows"
+msgstr "Tất cả các hàng"
+
+#: framework/features/header/header-options.php:42
+msgid "Top & Main Row"
+msgstr "Hàng trên cùng & Hàng chính"
+
+#: framework/features/header/header-options.php:37
+msgid "Only Main Row"
+msgstr "Chỉ hàng chính"
+
+#: framework/features/header/header-options.php:11
+msgid "Sticky Functionality"
+msgstr "Chức năng dính"
+
+#: framework/features/header/account-modal.php:61
+msgid "Back to login"
+msgstr "Quay lại đăng nhập"
+
+#: framework/features/header/modal/lostpassword.php:13
+msgid "Get New Password"
+msgstr "Lấy mật khẩu mới"
+
+#: framework/features/header/modal/login.php:23
+#: framework/features/header/modal/lostpassword.php:5
+msgid "Username or Email Address"
+msgstr "Tên người dùng hoặc địa chỉ email"
+
+#: framework/features/header/modal/register.php:112
+msgid "Register"
+msgstr "Đăng ký"
+
+#: framework/features/header/modal/register.php:106
+msgid "Registration confirmation will be emailed to you."
+msgstr "Email xác nhận sẽ được gửi tới hộp thư của bạn."
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:262
+#: framework/features/blocks/contact-info/options.php:361
+#: framework/features/blocks/dynamic-data/options.php:138
+#: framework/features/blocks/share-box/options.php:91
+#: framework/features/header/modal/register.php:47
+msgid "Email"
+msgstr "Email"
+
+#: framework/features/header/modal/register.php:41
+msgid "Username"
+msgstr "Tên người dùng"
+
+#: framework/features/header/modal/login.php:79
+msgid "Log In"
+msgstr "Đăng nhập"
+
+#: framework/features/header/modal/login.php:57
+msgid "Forgot Password?"
+msgstr "Quên mật khẩu?"
+
+#: framework/features/header/modal/login.php:53
+msgid "Remember Me"
+msgstr "Ghi nhớ"
+
+#: framework/features/header/modal/login.php:28
+#: framework/features/header/modal/register.php:53
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: framework/extensions/newsletter-subscribe/helpers.php:147
+msgid "Email address"
+msgstr "Địa chỉ email"
+
+#: framework/features/header/account-modal.php:41
+msgid "Sign Up"
+msgstr "Đăng ký"
+
+#: framework/features/header/items/account/config.php:4
+msgid "Account"
+msgstr "Tài khoản"
+
+#: framework/features/header/items/account/options.php:1691
+msgid "Modal Backdrop"
+msgstr "Modal Backdrop"
+
+#: framework/features/header/items/account/options.php:1499
+msgid "Item Margin"
+msgstr "Lề mục"
+
+#: framework/extensions/cookies-consent/customizer.php:170
+#: framework/extensions/cookies-consent/customizer.php:226
+#: framework/extensions/cookies-consent/customizer.php:257
+#: framework/extensions/cookies-consent/customizer.php:292
+#: framework/extensions/cookies-consent/customizer.php:321
+#: framework/extensions/newsletter-subscribe/customizer.php:219
+#: framework/extensions/newsletter-subscribe/customizer.php:350
+#: framework/extensions/trending/customizer.php:492
+#: framework/extensions/trending/customizer.php:524
+#: framework/features/header/items/account/options.php:1207
+#: framework/features/header/items/account/options.php:1250
+#: framework/features/header/items/account/options.php:1292
+#: framework/features/header/items/account/options.php:1398
+#: framework/features/header/items/account/options.php:1440
+#: framework/features/header/items/account/options.php:1481
+#: framework/features/header/items/account/options.php:1545
+#: framework/features/header/items/account/options.php:1764
+#: framework/features/header/items/account/options.php:1810
+#: framework/features/header/items/account/options.php:1861
+#: framework/features/header/items/account/options.php:1979
+#: framework/extensions/newsletter-subscribe/admin-static/bundle/newsletter-block.js:1
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:239
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:270
+#: static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/about-me/Edit.js:106
+#: static/js/editor/blocks/about-me/Edit.js:134
+#: static/js/editor/blocks/about-me/Edit.js:169
+#: static/js/editor/blocks/about-me/Edit.js:198
+#: static/js/editor/blocks/contact-info/Edit.js:150
+#: static/js/editor/blocks/contact-info/Edit.js:183
+#: static/js/editor/blocks/contact-info/Edit.js:212
+#: static/js/editor/blocks/search/Edit.js:300
+#: static/js/editor/blocks/search/Edit.js:332
+#: static/js/editor/blocks/search/Edit.js:368
+#: static/js/editor/blocks/share-box/Edit.js:100
+#: static/js/editor/blocks/share-box/Edit.js:131
+#: static/js/editor/blocks/share-box/Edit.js:161
+#: static/js/editor/blocks/socials/Edit.js:100
+#: static/js/editor/blocks/socials/Edit.js:131
+#: static/js/editor/blocks/socials/Edit.js:161
+msgid "Hover"
+msgstr "Di chuột"
+
+#: framework/extensions/cookies-consent/customizer.php:164
+#: framework/extensions/cookies-consent/customizer.php:191
+#: framework/extensions/cookies-consent/customizer.php:220
+#: framework/extensions/cookies-consent/customizer.php:251
+#: framework/extensions/cookies-consent/customizer.php:287
+#: framework/extensions/cookies-consent/customizer.php:316
+#: framework/extensions/newsletter-subscribe/customizer.php:188
+#: framework/extensions/newsletter-subscribe/customizer.php:213
+#: framework/extensions/newsletter-subscribe/customizer.php:245
+#: framework/extensions/newsletter-subscribe/customizer.php:276
+#: framework/extensions/newsletter-subscribe/customizer.php:313
+#: framework/extensions/newsletter-subscribe/customizer.php:345
+#: framework/extensions/trending/customizer.php:423
+#: framework/extensions/trending/customizer.php:486
+#: framework/extensions/trending/customizer.php:518
+#: framework/features/header/items/account/options.php:1198
+#: framework/features/header/items/account/options.php:1242
+#: framework/features/header/items/account/options.php:1284
+#: framework/features/header/items/account/options.php:1389
+#: framework/features/header/items/account/options.php:1432
+#: framework/features/header/items/account/options.php:1473
+#: framework/features/header/items/account/options.php:1539
+#: framework/features/header/items/account/options.php:1572
+#: framework/features/header/items/account/options.php:1610
+#: framework/features/header/items/account/options.php:1653
+#: framework/features/header/items/account/options.php:1758
+#: framework/features/header/items/account/options.php:1801
+#: framework/features/header/items/account/options.php:1852
+#: framework/features/header/items/account/options.php:1974
+#: framework/extensions/newsletter-subscribe/admin-static/bundle/newsletter-block.js:1
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:137
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:168
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:201
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:230
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:261
+#: static/bundle/blocks/blocks.js:7 static/js/editor/blocks/about-me/Edit.js:99
+#: static/js/editor/blocks/about-me/Edit.js:127
+#: static/js/editor/blocks/about-me/Edit.js:160
+#: static/js/editor/blocks/about-me/Edit.js:189
+#: static/js/editor/blocks/contact-info/Edit.js:143
+#: static/js/editor/blocks/contact-info/Edit.js:174
+#: static/js/editor/blocks/contact-info/Edit.js:203
+#: static/js/editor/blocks/search/Edit.js:205
+#: static/js/editor/blocks/search/Edit.js:232
+#: static/js/editor/blocks/search/Edit.js:261
+#: static/js/editor/blocks/search/Edit.js:292
+#: static/js/editor/blocks/search/Edit.js:324
+#: static/js/editor/blocks/search/Edit.js:359
+#: static/js/editor/blocks/search/Edit.js:389
+#: static/js/editor/blocks/search/Edit.js:409
+#: static/js/editor/blocks/share-box/Edit.js:91
+#: static/js/editor/blocks/share-box/Edit.js:122
+#: static/js/editor/blocks/share-box/Edit.js:152
+#: static/js/editor/blocks/socials/Edit.js:91
+#: static/js/editor/blocks/socials/Edit.js:122
+#: static/js/editor/blocks/socials/Edit.js:152
+msgid "Initial"
+msgstr "Ban đầu"
+
+#: framework/features/header/header-options.php:227
+#: framework/features/header/items/account/options.php:1161
+#: framework/features/header/items/account/options.php:1353
+msgid "Sticky State"
+msgstr "Trạng thái dính"
+
+#: framework/features/header/header-options.php:219
+#: framework/features/header/items/account/options.php:1148
+#: framework/features/header/items/account/options.php:1340
+msgid "Transparent State"
+msgstr "Trạng thái trong suốt"
+
+#: framework/features/header/header-options.php:214
+#: framework/features/header/items/account/options.php:1140
+#: framework/features/header/items/account/options.php:1332
+msgid "Default State"
+msgstr "Tình trạng mặc định"
+
+#: framework/extensions/cookies-consent/customizer.php:142
+#: framework/extensions/newsletter-subscribe/customizer.php:170
+#: framework/extensions/product-reviews/extension.php:422
+#: framework/extensions/trending/customizer.php:395
+#: framework/features/header/header-options.php:203
+#: framework/features/header/items/account/options.php:1107
+msgid "Design"
+msgstr "Thiết kế"
+
+#: framework/features/header/items/account/options.php:702
+#: framework/features/header/items/account/options.php:1073
+msgid "Custom Page Link"
+msgstr "Tuỳ chỉnh liên kết trang"
+
+#: framework/features/header/items/account/options.php:6
+msgid "Logout"
+msgstr "Đăng xuất"
+
+#: framework/features/header/items/account/options.php:5
+msgid "Dashboard Page"
+msgstr "Trang tổng quan"
+
+#: framework/features/header/items/account/options.php:4
+msgid "Profile Page"
+msgstr "Trang cá nhân"
+
+#: framework/features/header/items/account/options.php:173
+#: framework/features/header/items/account/options.php:597
+#: framework/features/header/items/account/views/login.php:100
+#: framework/features/header/items/account/views/login.php:472
+msgid "My Account"
+msgstr "Tài khoản của tôi"
+
+#: framework/features/header/items/account/options.php:357
+msgid "Avatar Size"
+msgstr "Kích thước ảnh đại diện"
+
+#: framework/features/header/items/account/options.php:346
+msgid "Avatar"
+msgstr "Ảnh đại diện"
+
+#: framework/features/header/account-modal.php:37
+#: framework/features/header/items/account/options.php:1053
+#: framework/features/header/items/account/views/logout.php:8
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: framework/features/header/items/account/options.php:508
+#: framework/features/header/items/account/options.php:882
+#: framework/features/header/items/account/options.php:968
+msgid "Icon Size"
+msgstr "Kích thước icon"
+
+#: framework/extensions/trending/customizer.php:188
+#: framework/features/blocks/contact-info/options.php:101
+#: framework/features/blocks/contact-info/options.php:164
+#: framework/features/blocks/contact-info/options.php:225
+#: framework/features/blocks/contact-info/options.php:286
+#: framework/features/blocks/contact-info/options.php:347
+#: framework/features/blocks/contact-info/options.php:408
+#: framework/features/blocks/contact-info/options.php:469
+#: framework/features/blocks/search/options.php:86
+#: framework/features/header/items/account/options.php:347
+#: framework/features/header/items/account/options.php:404
+#: framework/features/header/items/account/options.php:745
+#: framework/features/header/items/account/options.php:785
+msgid "Icon"
+msgstr "Icon"
+
+#: framework/extensions/cookies-consent/customizer.php:15
+#: framework/extensions/newsletter-subscribe/customizer.php:12
+#: framework/extensions/product-reviews/extension.php:382
+#: framework/extensions/product-reviews/metabox.php:6
+#: framework/extensions/trending/customizer.php:110
+#: framework/features/header/header-options.php:6
+#: framework/features/header/items/account/options.php:330
+#: static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/query/edit/PostsInspectorControls.js:43
+#: static/js/editor/blocks/tax-query/edit/TermsInspectorControls.js:39
+msgid "General"
+msgstr "Tổng quan"
+
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:67
+#: framework/features/dynamic-css.php:55
+msgid "Inline"
+msgstr "Thuộc cùng một dòng"
+
+#: framework/features/dynamic-css.php:54
+msgid "File"
+msgstr "File"
+
+#: framework/features/dynamic-css.php:52
+msgid "The strategy of outputting the dynamic CSS. File - all the CSS code will be placed in a static file, otherwise it will be placed inline in head."
+msgstr "Chiến lược xuất CSS động. File - tất cả code CSS sẽ được đặt trong một file tĩnh, nếu không, nó sẽ được đặt cùng trong dòng đầu."
+
+#: framework/features/dynamic-css.php:48
+msgid "Dynamic CSS Output"
+msgstr "Đầu ra CSS động"
+
+#: framework/features/demo-install.php:181
+msgid "Your PHP installation doesn't have support for XML. Please install the <i>xml</i> or <i>simplexml</i> PHP extension in order to be able to install starter sites. You might need to contact your hosting provider to assist you in doing so."
+msgstr "Cài đặt PHP của bạn không có hỗ trợ cho XML. Vui lòng cài đặt phần mở rộng <i>xml</i> hoặc <i>simplexml</i> PHP để có thể cài đặt Trang web khởi động. Bạn có thể cần liên hệ với nhà cung cấp dịch vụ lưu trữ của mình để hỗ trợ bạn làm việc này."
+
+#: framework/features/demo-install/parsers.php:109
+#: framework/features/demo-install/parsers.php:114
+#: framework/features/demo-install/parsers.php:371
+#: framework/features/demo-install/parsers.php:585
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Đây có vẻ không phải file WXR, phiên bản WXR bị thiếu/không hợp lệ "
+
+#: framework/features/demo-install/parsers.php:54
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr "Chi tiết được hiển thị ở phía trên. Bây giờ, nhà nhập khẩu sẽ thử lại bằng một trình phân tích cú pháp khác..."
+
+#: framework/features/demo-install/parsers.php:53
+#: framework/features/demo-install/parsers.php:97
+#: framework/features/demo-install/parsers.php:105
+msgid "There was an error when reading this WXR file"
+msgstr "Đã xảy ra lỗi khi đọc file WXR"
+
+#: framework/features/demo-install/wp-importer.php:1291
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr "Chọn file WXR (.xml) để tải lên, sau đó nhấp vào file tải lên và nhập."
+
+#: framework/features/demo-install/wp-importer.php:1290
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr "Tải tập tin WordPress RSS mở rộng (WXR) lên và chúng tôi sẽ nhập các bài viết, phản hồi, tùy chọn, và các chuyên mục vào blog này."
+
+#: framework/features/demo-install/wp-importer.php:1275
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr "Đã có phiên bản mới của trình nhập khẩu. Vui lòng cập nhật lên phiên bản %s để đảm bảo khả năng tương thích với các file xuất mới hơn."
+
+#: framework/features/demo-install/wp-importer.php:1268
+msgid "Import WordPress"
+msgstr "Nhập WordPress"
+
+#: framework/features/demo-install/wp-importer.php:1168
+msgid "Remote file is too large, limit is %s"
+msgstr "Tập tin quá lớn, giới hạn là %s"
+
+#: framework/features/demo-install/wp-importer.php:1162
+msgid "Zero size file downloaded"
+msgstr "Tập tin tải xuống kích thước bằng không"
+
+#: framework/features/demo-install/wp-importer.php:1157
+msgid "Remote file is incorrect size"
+msgstr "File từ xa có kích thước không chính xác"
+
+#: framework/features/demo-install/wp-importer.php:1150
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Máy chủ từ xa trả lại phản hồi lỗi %1$d %2$s"
+
+#: framework/features/demo-install/wp-importer.php:1142
+msgid "Remote server did not respond"
+msgstr "Máy chủ từ xa không phản hồi"
+
+#: framework/features/demo-install/wp-importer.php:1090
+msgid "Invalid file type"
+msgstr "Định dạng file không hợp lệ"
+
+#: framework/features/demo-install/wp-importer.php:1077
+msgid "Fetching attachments is not enabled"
+msgstr "Tìm nạp tệp đính kèm không được bật"
+
+#: framework/features/demo-install/wp-importer.php:993
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Mục menu bị bỏ qua do slug menu không hợp lệ: %s"
+
+#: framework/features/demo-install/wp-importer.php:986
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Mục menu bị bỏ qua do thiếu slug menu"
+
+#: framework/features/demo-install/wp-importer.php:815
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Nhập không thành công %s &#8220;%s&#8221;"
+
+#: framework/features/demo-install/wp-importer.php:751
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; đã tồn tại."
+
+#: framework/features/demo-install/wp-importer.php:588
+#: framework/features/demo-install/wp-importer.php:849
+msgid "Failed to import %s %s"
+msgstr "Không nhập được %s %s"
+
+#: framework/features/demo-install/wp-importer.php:531
+msgid "Failed to import post tag %s"
+msgstr "Không thể nhập thẻ bài viết %s"
+
+#: framework/features/demo-install/wp-importer.php:485
+msgid "Failed to import category %s"
+msgstr "Không nhập được danh mục %s"
+
+#: framework/features/demo-install/wp-importer.php:433
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr "Không tạo được người dùng mới cho %s. Bài viết của họ sẽ được quy cho người dùng hiện tại."
+
+#: framework/features/demo-install/wp-importer.php:380
+msgid "- Select -"
+msgstr "- Lựa chọn -"
+
+#: framework/features/demo-install/wp-importer.php:374
+msgid "or assign posts to an existing user:"
+msgstr "hoặc chỉ định bài đăng cho một người dùng hiện có:"
+
+#: framework/features/demo-install/wp-importer.php:372
+msgid "assign posts to an existing user:"
+msgstr "chỉ định bài đăng cho một người dùng hiện có:"
+
+#: framework/features/demo-install/wp-importer.php:364
+msgid "as a new user:"
+msgstr "với tư cách là người dùng mới:"
+
+#: framework/features/demo-install/wp-importer.php:361
+msgid "or create new user with login name:"
+msgstr "hoặc tạo người dùng mới với tên đăng nhập:"
+
+#: framework/features/demo-install/wp-importer.php:350
+msgid "Import author:"
+msgstr "Nhập tác giả:"
+
+#: framework/features/demo-install/wp-importer.php:337
+msgid "Submit"
+msgstr "Gửi đi"
+
+#: framework/features/demo-install/wp-importer.php:333
+msgid "Download and import file attachments"
+msgstr "Tải và nhập tập tin đính kèm"
+
+#: framework/features/demo-install/wp-importer.php:330
+msgid "Import Attachments"
+msgstr "Nhập các tập tin đính kèm"
+
+#: framework/features/demo-install/wp-importer.php:320
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr "Nếu người dùng mới được tạo bởi WordPress, mật khẩu mới sẽ được tạo ngẫu nhiên và vai trò của người dùng mới&#8217 sẽ được đặt là %s. Việc thay đổi thông tin chi tiết của người dùng mới&#8217 theo cách thủ công sẽ là cần thiết."
+
+#: framework/features/demo-install/wp-importer.php:318
+msgid "To make it simpler for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site, such as your primary administrator account."
+msgstr "Để giúp bạn chỉnh sửa và lưu nội dung đã nhập đơn giản hơn, bạn có thể muốn chỉ định lại tác giả của mục đã nhập cho người dùng hiện có của trang web này, chẳng hạn như tài khoản quản trị viên chính của bạn."
+
+#: framework/features/demo-install/wp-importer.php:317
+msgid "Assign Authors"
+msgstr "Chỉ định Tác giả"
+
+#: framework/features/demo-install/wp-importer.php:291
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr "Không nhập được tác giả %s. Bài viết của họ sẽ được quy cho người dùng hiện tại."
+
+#: framework/features/demo-install/wp-importer.php:266
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr "Tệp WXR này (phiên bản %s) có thể không được hỗ trợ bởi phiên bản trình nhập này. Vui lòng xem xét cập nhật."
+
+#: framework/features/demo-install/wp-importer.php:250
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr "Không thể tìm thấy file xuất tại <code>%s</code>. Có khả năng điều này là do sự cố về phân quyền."
+
+#: framework/features/demo-install/wp-importer.php:230
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "Hãy nhớ cập nhật mật khẩu và vai trò của người dùng đã nhập."
+
+#: framework/features/demo-install/wp-importer.php:229
+msgid "Have fun!"
+msgstr "Chúc vui!"
+
+#: framework/features/demo-install/wp-importer.php:229
+msgid "All done."
+msgstr "Hoàn thành."
+
+#: framework/features/demo-install/wp-importer.php:194
+#: framework/features/demo-install/wp-importer.php:245
+#: framework/features/demo-install/wp-importer.php:249
+#: framework/features/demo-install/wp-importer.php:258
+msgid "Sorry, there has been an error."
+msgstr "Xin lỗi, đã có lỗi xảy ra."
+
+#: framework/features/conditions/rules/user-auth.php:34
+msgid "User Role"
+msgstr "Vai trò người dùng"
+
+#: framework/features/conditions/rules/user-auth.php:29
+msgid "User Logged Out"
+msgstr "Người dùng đã Đăng xuất"
+
+#: framework/features/conditions/rules/user-auth.php:24
+msgid "User Logged In"
+msgstr "Người dùng đã đăng nhập"
+
+#: framework/features/conditions/rules/user-auth.php:20
+msgid "User Auth"
+msgstr "Xác thực người dùng"
+
+#: framework/features/conditions/rules/pages.php:33
+msgid "Front Page"
+msgstr "Front Page"
+
+#: framework/features/conditions/rules/pages.php:27
+msgid "Blog"
+msgstr "Blog"
+
+#: framework/features/blocks/search/options.php:60
+#: framework/features/blocks/search/options.php:66
+#: framework/features/blocks/search/view.php:80
+#: framework/features/blocks/search/view.php:261
+#: framework/features/conditions/rules/pages.php:22
+#: static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/query/edit/PatternSelectionModal.js:92
+#: static/js/editor/blocks/search/Preview.js:23
+#: static/js/editor/blocks/tax-query/edit/PatternSelectionModal.js:78
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: framework/features/conditions/rules/pages.php:15
+msgid "404"
+msgstr "404"
+
+#: framework/features/conditions/rules/specific.php:38
+#: framework/features/conditions/rules/woo.php:65
+msgid "Taxonomy ID"
+msgstr "ID Taxonomy "
+
+#: framework/features/conditions/rules/specific.php:20
+#: static/bundle/options.js:15
+#: static/js/options/ConditionsManager/PostIdPicker.js:79
+msgid "Custom Post Type ID"
+msgstr "ID Loại bài viết tùy chỉnh"
+
+#: framework/features/conditions/rules/specific.php:15
+msgid "Page ID"
+msgstr "ID Trang"
+
+#: framework/features/conditions/rules/specific.php:10
+msgid "Post ID"
+msgstr "ID Bài viết"
+
+#: framework/features/conditions/rules/specific.php:48
+#: static/bundle/blocks/blocks.js:7
+#: static/js/editor/blocks/query/edit/layers/useTaxonomiesLayers.js:69
+msgid "Specific"
+msgstr "Riêng biệt"
+
+#: framework/features/conditions/rules/cpt.php:53
+msgid "Custom Post Types"
+msgstr "Loại bài viết tùy chỉnh"
+
+#: framework/features/conditions/rules/woo.php:49
+msgid "Product Tags"
+msgstr "Thẻ sản phẩm"
+
+#: framework/features/conditions/rules/woo.php:30
+msgid "Product Categories"
+msgstr "Danh mục sản phẩm"
+
+#: framework/features/conditions/rules/woo.php:25
+msgid "Product Archives"
+msgstr "Sản phẩm Lưu trữ"
+
+#: framework/features/conditions/rules/woo.php:20
+msgid "Single Product"
+msgstr "Sản phẩm đơn"
+
+#: framework/features/conditions/rules/woo.php:15
+msgid "Shop Home"
+msgstr "Trang chủ cửa hàng"
+
+#: framework/features/conditions/rules/woo.php:89
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: framework/features/conditions/rules/pages.php:8
+msgid "Single Page"
+msgstr "Trang đơn"
+
+#: framework/features/blocks/search/options.php:7
+#: framework/features/conditions/rules/pages.php:52
+msgid "Pages"
+msgstr "Trang"
+
+#: framework/features/conditions/rules/posts.php:20
+msgid "Post Tags"
+msgstr "Thẻ bài viết"
+
+#: framework/features/conditions/rules/posts.php:15
+msgid "Post Categories"
+msgstr "Chuyên mục bài viết"
+
+#: framework/features/conditions/rules/posts.php:27
+msgid "Single Post"
+msgstr "Bài đăng đơn"
+
+#: framework/extensions/trending/customizer.php:4
+#: framework/features/blocks/query/block.php:19
+#: framework/features/blocks/search/options.php:6
+#: framework/features/conditions/rules/posts.php:33
+msgid "Posts"
+msgstr "Bài viết"
+
+#: framework/features/conditions/rules/basic.php:41
+msgid "Basic"
+msgstr "Cơ bản"
+
+#: framework/features/conditions/rules/basic.php:3
+msgid "Entire Website"
+msgstr "Toàn bộ trang web"
+
+#: framework/features/conditions/rules/cpt.php:27
+msgid "%s Archive"
+msgstr "%s Lưu trữ"
+
+#: framework/features/conditions/rules/cpt.php:17
+msgid "%s Single"
+msgstr "%s Đơn"
+
+#: framework/features/google-analytics.php:100
+msgid "Google Analytics v4"
+msgstr "Google Analytics v4"
+
+#: framework/features/opengraph-meta-data.php:40
+msgid "Twitter Username"
+msgstr "Tên người dùng Twitter"
+
+#: framework/features/opengraph-meta-data.php:33
+msgid "Facebook App ID"
+msgstr "ID Facebook App"
+
+#: framework/features/opengraph-meta-data.php:26
+msgid "Facebook Page URL"
+msgstr "Đường dẫn trang Facebook"
+
+#: framework/features/opengraph-meta-data.php:13
+msgid "OpenGraph Meta Data"
+msgstr "OpenGraph Meta Data"
+
+#: framework/theme-integration.php:296
+msgid "PRO"
+msgstr "PRO"
+
+#: framework/theme-integration.php:278
+msgid "Companion"
+msgstr "Bạn đồng hành"
+
+#: framework/theme-integration.php:224
+msgid "Instagram"
+msgstr "Instagram"
+
+#: framework/theme-integration.php:223
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: framework/features/blocks/share-box/options.php:37
+#: framework/theme-integration.php:222
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: framework/features/blocks/share-box/options.php:19
+#: framework/theme-integration.php:220
+msgid "Facebook"
+msgstr "Facebook"
+
+#. Author URI of the plugin
+#: blocksy-companion.php
+msgid "https://creativethemes.com"
+msgstr "https://creativethemes.com"
+
+#. Author of the plugin
+#: blocksy-companion.php
+msgid "CreativeThemes"
+msgstr "CreativeThemes"
+
+#. Description of the plugin
+#: blocksy-companion.php
+msgid "This plugin is the companion for the Blocksy theme, it runs and adds its enhacements only if the Blocksy theme is installed and active."
+msgstr "Plugin này là bạn đồng hành của Blocksy theme, nó chỉ chạy và thêm các cải tiến khi chủ đề Blocksy được cài đặt và hoạt động."
+
+#. Plugin Name of the plugin
+#: blocksy-companion.php
+msgid "Blocksy Companion"
+msgstr "Blocksy Companion"
