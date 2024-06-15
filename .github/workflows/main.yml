@@ -1,0 +1,50 @@
+name: WordPress CI/CD
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    services:
+      mysql:
+        image: mysql:5.7
+        options: --health-cmd="mysqladmin ping --silent" --health-interval=10s --health-timeout=5s --health-retries=3
+        env:
+          MYSQL_ROOT_PASSWORD: root
+          MYSQL_DATABASE: wordpress_test
+        ports:
+          - 3306:3306
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Setup PHP
+      uses: shivammathur/setup-php@v2
+      with:
+        php-version: '7.4'
+        extensions: mbstring, mysqli, intl, xml, curl, json, ctype, token_get_all, fileinfo
+        ini-values: post_max_size=256M, upload_max_filesize=256M, memory_limit=512M
+        coverage: none
+
+    - name: Install Composer dependencies
+      run: composer install --no-progress --prefer-dist
+
+    - name: Copy wp-config.php
+      run: cp wp-config-sample.php wp-config.php
+
+    - name: Update wp-config.php
+      run: |
+        sed -i "s/database_name_here/wordpress_test/" wp-config.php
+        sed -i "s/username_here/root/" wp-config.php
+        sed -i "s/password_here/root/" wp-config.php
+        echo "define('WP_DEBUG', true);" >> wp-config.php
+        echo "define('WP_DEBUG_LOG', true);" >> wp-config.php
