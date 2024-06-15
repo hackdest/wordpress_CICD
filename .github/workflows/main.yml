@@ -34,11 +34,17 @@ jobs:
         extensions: mbstring, mysqli, intl, xml, curl, json, ctype, token_get_all, fileinfo
         ini-values: post_max_size=256M, upload_max_filesize=256M, memory_limit=512M
         coverage: none
+
     - name: Install Composer
       run: sudo apt-get install -y composer
 
     - name: Install Composer dependencies
-      run: composer install --no-progress --prefer-dist
+      run: |
+        if [ -f composer.json ]; then
+          composer install --no-progress --prefer-dist
+        else
+          echo "No composer.json found, skipping Composer install"
+        fi
 
     - name: Copy wp-config.php
       run: cp wp-config-sample.php wp-config.php
