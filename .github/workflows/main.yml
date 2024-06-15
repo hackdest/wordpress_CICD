@@ -57,12 +57,12 @@ jobs:
         echo "define('WP_DEBUG', true);" >> wp-config.php
         echo "define('WP_DEBUG_LOG', true);" >> wp-config.php
 
-    - name: Deploy to Remote Server
-      env:
-        SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-        REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
-        REMOTE_USER: ${{ secrets.REMOTE_USER }}
-      run: |
-        echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
-        ssh-keyscan $REMOTE_HOST >> ~/.ssh/known_hosts
-        rsync -avz --exclude '.git/' . $REMOTE_USER@$REMOTE_HOST:/path/to/your/project
+    # - name: Deploy to Remote Server
+    #   env:
+    #     SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+    #     REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
+    #     REMOTE_USER: ${{ secrets.REMOTE_USER }}
+    #   run: |
+    #     echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
+    #     ssh-keyscan $REMOTE_HOST >> ~/.ssh/known_hosts
+    #     rsync -avz --exclude '.git/' . $REMOTE_USER@$REMOTE_HOST:/path/to/your/project
